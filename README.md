@@ -61,7 +61,7 @@ Please consider citing the following if you found this work or code helpful!
 ```
 TBD - US
 
-@article{zhou2023webarena,
+@article{hazyresearch2024wonderbread,
   title={WONDERBREAD: A Benchmark for Business
 Process Management Tasks},
   author={TODO: add authorlist},
