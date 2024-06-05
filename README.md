@@ -62,9 +62,10 @@ Please consider citing the following if you found this work or code helpful!
 TBD - US
 
 @article{zhou2023webarena,
-  title={WebArena: A Realistic Web Environment for Building Autonomous Agents},
-  author={Zhou, Shuyan and Xu, Frank F and Zhu, Hao and Zhou, Xuhui and Lo, Robert and Sridhar, Abishek and Cheng, Xianyi and Bisk, Yonatan and Fried, Daniel and Alon, Uri and others},
-  journal={arXiv preprint arXiv:2307.13854},
-  year={2023}
+  title={WONDERBREAD: A Benchmark for Business
+Process Management Tasks},
+  author={TODO: add authorlist},
+  journal={arXiv preprint arXiv:xxxx.abcde},
+  year={2024}
 }
 ```
