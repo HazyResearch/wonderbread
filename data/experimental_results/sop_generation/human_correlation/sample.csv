@@ -1,0 +1,664 @@
+pred_sop,demo_name,task_id,ablation--model,ablation--is_pairwise,ablation--is_td,ablation--is_kf,ablation--is_act,ablation,gold_sop,n_lines_gold_sop,n_lines_pred_sop,ordering,auto_eval_precision,auto_eval_recall
+"1. Click on the ""Explore"" tab at the top of the screen.
+2. Click on the ""All"" filter button, located at the top of the page, on the right-hand side.
+3. Scroll down until you see the project you want to view.
+4. Click on the project name to open the project page.",258 @ 2023-12-30-14-42-44,258,GeminiPro,FALSE,TRUE,TRUE,FALSE,GeminiPro--False--True--True--False,"
+1. Click the third tab, titled ""Explore"", in the bar below ""Projects"" and next to ""Starred"" and ""Topics"".
+2. Thus, all public projects have been shown, as desired.",2,4,0.25,0.25,0.5
+"1. Click the heart icon located on the right side of the product image. The heart icon is located in the middle of the image, in a horizontal line with the product's price.
+2. A pop-up will appear on the bottom right of the screen that says ""Added to Wishlist"".
+3. Click on the ""Go to Wishlist"" button on the pop-up.
+4. A new tab will open in your browser. The tab will display your wishlist.",519 @ 2023-12-26-23-48-13,519,GeminiPro,FALSE,TRUE,TRUE,FALSE,GeminiPro--False--True--True--False,"1. Scroll down to the end of the product attributes.
+2. Click on the grey ""Add to Wish List Button"". This should be located on the right column of the page, under the blue ""Add to Cart"" button.",2,4,0.25,0.25,0
+"1. Open the web application ""Generic open source Reddit clone"" and log in to your account if not already logged in.
+2. Click on the ""Forums"" tab located in the top navigation bar to view the list of available forums.
+3. Scroll down the list of forums or use the search bar to find the ""IAmA"" forum. The search bar has a magnifying glass icon and is located in the top right corner of the page.
+4. Click on the ""IAmA"" forum to enter it.
+5. Once inside the ""IAmA"" forum, locate the search bar again at the top right corner of the page.
+6. Type ""UniversityofBath"" into the search bar to filter submissions by the user ""UniversityofBath.""
+7. Press the ""Enter"" key on your keyboard to initiate the search.
+8. Review the list of submissions filtered by the search. These submissions are displayed in the main content area of the page, each with an upvote arrow, a number indicating the vote count, and the title of the submission.
+9. Move your mouse cursor to the upvote arrow (a triangle pointing upwards) located to the left of the title of the first submission by ""UniversityofBath.""
+10. Click on the upvote arrow to ""like"" the submission. The arrow will change color, indicating that the vote has been registered.
+11. Repeat steps 9 and 10 for each subsequent submission by ""UniversityofBath"" in the list.
+12. Once all submissions by ""UniversityofBath"" have been liked, the workflow is complete.",721 @ 2024-01-06-15-15-58,721,GPT4,FALSE,TRUE,TRUE,FALSE,GPT4--False--True--True--False,"
+1. Click on the “Forums” tab near the top left of the page.
+2. Click on the sort criteria “Alphabetical”, located directly below the “Forums” tab.
+3. Click on the red text “IAmA” under the big, bolded letter “I” in the forums list.
+4. You will see a list of posts, with each post on a new row, and the user who posted it below the text in bold. Click the gray up arrow for the first post by the user of interest (in this case UniversityofBath). 
+5. Click the gray up arrow for the second post by the user of interest.
+6. Click the gray up arrow for the third post by the user of interest.
+7. Click the gray up arrow for the fourth post by the user of interest.
+8. Scroll down to check if more posts are by the user of interest.
+9. Click the gray up arrow for the fifth post by the user of interest.
+10. Click the gray up arrow for the sixth post by the user of interest.
+11. Click the gray up arrow for the seventh post by the user of interest.
+12. Click the gray up arrow for the eighth post by the user of interest.",12,12,0.4166666666666667,0.4166666666666667,0.8333333333333334
+"1. Log in to your GitLab account by entering your credentials on the GitLab login page.
+2. Once logged in, locate the search bar at the top center of the screen, which has the placeholder text ""Search or jump to…"".
+3. Type ""a11yproject"" into the search bar and press the 'Enter' key on your keyboard to search for the repository.
+4. From the search results, identify and click on the correct repository named ""a11yproject"" to navigate to its main page.
+5. On the repository main page, locate the 'Issues' tab on the left-hand side menu and click on it to view all issues related to the repository.
+6. Find the issue related to the 404 error by scrolling through the list of issues or using the filter bar at the top of the issues list, which has the placeholder text ""Search or filter results…"". Type ""404"" into the filter bar and press 'Enter' to filter the issues.
+7. Once you have located the issue regarding the 404 error, click on the title of the issue to open its detailed view.
+8. Inside the issue's detailed view, locate the 'Assignee' section on the right-hand side of the page, which may currently have the text ""None"" if no one is assigned.
+9. Click on the 'Edit' button or the 'Assignee' section itself to open the assignee selection dropdown.
+10. In the assignee selection dropdown, start typing ""Roshanjossey"" in the search bar that appears with the placeholder text ""Search for a user"".
+11. From the auto-suggested list of users, click on the user ""Roshanjossey"" to select them as the assignee for the issue.
+12. Confirm the assignment by clicking the 'Save changes' button that appears after selecting the user.
+13. Verify that ""Roshanjossey"" now appears in the 'Assignee' section of the issue to ensure the task has been correctly assigned.",446 @ 2024-01-06-21-47-36,446,GPT4,FALSE,TRUE,FALSE,FALSE,GPT4--False--True--False--False,"
+
+
+
+1. Scroll on the homepage to locate ""The A11Y Project / a11yproject.com"" in black text.
+2. Click on ""The A11Y Project / a11yproject.com"" in black text.
+3. Navigate to the left sidebar, and identify and click on the black ""Issues"" text to reveal the “Issues” page.
+4. Click on the ""Search or filter results..."" text box located at the top of the screen to focus it.
+5. Type in ""404"" and click on the “Enter” key to reveal a list of issues.
+6. Scroll on the page and locate the "" [Bug] 404s, bad host, timeouts, bad urls for URLs linked from website"" issue.
+7. Click on "" [Bug] 404s, bad host, timeouts, bad urls for URLs linked from website"" issue to reveal its dedicated issues page.
+8. Navigate to the top right of the screen and locate the “Assignee” section right below “Add a to do”.
+9. Click on the ""Edit"" text on the right of the “Assignee” section to reveal the ""Assign to"" dropdown.
+10. Scroll to locate ""Roshan Jossy / @Roshanjossey"" from the available options in the dropdown menu.
+11. Click on ""Roshan Jossy / @Roshanjossey"".",11,13,0.5384615384615384,0.7692307692307693,0.8181818181818182
+"Here is the unified Standard Operating Procedure (SOP) for the workflow ""Update the description of Radiant Tee to highlight the real user positive reviews by quoting the comments"" within the ""Generic e-commerce admin based on Adobe Magneto"" web application:
+
+1. Open the web application ""Generic e-commerce admin based on Adobe Magneto"" in a web browser.
+
+2. Click on the ""CATALOG"" link in the left sidebar menu to navigate to the Catalog section. 
+
+3. Click on the ""Products"" link under the ""CATALOG"" section in the left sidebar menu.
+
+4. In the search bar located at the top of the ""Products"" page, type ""Radiant Tee"" and click on the ""Search"" button to filter the product list.
+
+5. Scroll down the filtered product list until you see the ""Radiant Tee"" product row. Click on the ""Edit"" link under the ""Action"" column for the ""Radiant Tee"" product.
+
+6. On the ""Radiant Tee"" product edit page, scroll down to the ""Content"" section and click on the ""Content"" text to expand the section.
+
+7. In the expanded ""Content"" section, scroll down to the ""Product Reviews"" section and click on the text label ""Product Reviews"" to expand that section.
+
+8. In the expanded ""Product Reviews"" section, locate the positive review with the title ""cool and dry"" by the user ""Lakeisha"". Click on the text of Lakeisha's review to select it.
+
+9. Scroll up the page to the ""Description"" section and click on the ""Show / Hide Editor"" link next to ""Description"" to reveal the text editor.
+
+10. In the text editor, type the text ""This product has received positive reviews. Some examples of these are:"" followed by pressing the Enter/Return key.
+
+11. Copy (Ctrl/Cmd+C) the text of Lakeisha's review that you had previously selected.
+
+12. Paste (Ctrl/Cmd+V) the copied text into the ""Description"" field immediately after the text you just typed. Press the Enter/Return key again to create a new line after pasting the review text.
+
+13. Locate another positive review, such as the one titled ""What I rally love here is that it does the job of keeping me cool and dry..."" Click on the text of this review to select it.
+
+14. Copy the selected text and paste it into the ""Description"" field on a new line below the first quoted review.
+
+15. After adding the quoted positive reviews to the description, click on the ""Save"" button at the top right of the page to save the changes.
+
+16. The application will refresh and display a success message ""You saved the product.""
+
+This SOP outlines the complete workflow for updating the product description of the ""Radiant Tee"" with real user positive reviews within the ""Generic e-commerce admin based on Adobe Magneto"" web application.",545 @ 2024-01-28-09-10-43,545,Claude3,FALSE,TRUE,TRUE,TRUE,Claude3--False--True--True--True,"1. Click on the “Catalog” tab in the left side bar. It has a box sign icon. It is located under the “Sales” and above the “customers” tabs.
+2. A menu with options will pop out. Click on the “Products” option in the pop out menu to open the “Products” page. It is the top most option in the menu.
+3. Click in the “Search by keyword” text box, located on the upper left side of the screen, under the “Products” header.
+4. Type in the product name: 'Radiant Tee' and click on the magnifying glass icon in the same text box to search that product.
+5. Scroll down until you come to the row corresponding to the product “Radiant Tee”.
+6. On that row, click on the blue “Edit” link in the “Action” column, to open the “Radiant Tee” page.
+7. Scroll down until you see the ""Content"" header.
+8. Click on the ""Content"" header to open the dropdown section.
+9. Scroll down until you see the ""Product Reviews"" header.
+10. Click on the ""Product Reviews"" header to open the dropdown section.
+11. Select the full text of the first positive review by holding & dragging the mouse.
+12. Press ""command + c"" on the keyboard to copy the selected text.
+13. Scroll back up to the ""Content"" section.
+14. In the “Short Description” textbox, type ""This product has received positive reviews. Some examples of these are:"".
+15. Press Enter on the keyboard to go to the next line and then press “command + v"" on the keyboard to paste the text of the copied review.
+16. Scroll down again to the ""Product Reviews"" section.
+17. Select the full text of the next positive review by holding & dragging the mouse.
+18. Press ""command + c"" on the keyboard to copy the selected text.
+19. Scroll back up to the ""Content"" section.
+20. Click in the “Short Description” textbox to go to the end of the last typed line.
+21. Press Enter on the keyboard to go to the next line and then press “command + v"" on the keyboard to paste the text of the copied review.
+22. Repeat steps 16 through 21, to paste as many reviews as needed. 
+23. Click on the orange “Save” button at the top right of the page.",23,17,0.2352941176470588,0.7647058823529411,0.9130434782608696
+"Standard Operating Procedure (SOP) for Identifying Customers with 2 Orders in a Given Time Period:
+
+1. Click on the 'REPORTS' link located in the left sidebar menu.
+2. In the reports menu that appears, click on the text labeled 'Order Count' under the 'Customers' section.
+3. On the 'Order Count Report' page, click on the calendar icon button next to the 'From:' field.
+4. A calendar dropdown will appear. Scroll down to the desired year and click on it to select the year.
+5. Scroll down further in the calendar dropdown until you reach the desired month and click on it to select the month.
+6. Click on the '1' link in the calendar to set the start date to the 1st of the selected month and year.
+7. Click on the 'None' button located next to the 'Show By:' dropdown. This will display the order count data for the selected date range, grouped by customer.
+8. Review the 'Customer' and 'Orders' columns in the report to identify any customers who have placed 2 orders within the selected date range.
+9. If no customers with 2 orders are found for the selected date range, adjust the date range by repeating steps 4-7 to search different time periods.
+10. To view the order count data for a specific day, click on the link labeled with the desired date in the calendar view.
+11. Click on the dropdown labeled 'Day Month Year' to change the grouping of the report data.
+12. From the dropdown menu that appears, select 'Year' to group the order count data by year.
+13. Click on the text labeled 'Refresh' to update the report with the new grouping by year.
+14. Scroll down the report to view the list of customers and their corresponding order counts for the selected year.
+15. Identify the customers who have placed 2 orders in the entire history by looking for rows with '2' in the 'Orders' column.
+
+Note: This SOP assumes that the user has the necessary permissions and access to the reporting system and that the system is functioning correctly.",64 @ 2023-12-27-00-12-03,64,Claude3,FALSE,TRUE,TRUE,TRUE,Claude3--False--True--True--True,"
+1. Click on the “REPORTS” button in the dark gray column on the left hand side of the page. The button has a bar plot as symbol and is below the ""CONTENT"" button and above the ""STORES"" button.
+2. Click on “Order Count” in the pop up menu, located under the heading “Customers”. The option is below the ""Order Total"" option and above the ""New"" option.
+3. In the ""From"" field, click on the calendar icon. This field is the first field from the left and is just above the records table.
+4. From the calendar, click on the dropdown menu corresponding to the month selection. This dropdown menu is the one at the left in the pop up calendar menu and has the abreviation of a month written in it.
+5. In the gray list showing all the available months, click on the entry corresponding to January, which has the text ""Jan"" on it.
+6. From the calendar, click on the dropdown menu corresponding to the year selection. This dropdown menu is the one at the right in the pop up calendar menu.
+7. In the gray list showing all the available years, scroll up until you find the first entry. This entry corresponds to the year 1923. Click on that entry.
+8. Click on the day ""1"" on the calendar menu. This will select the date January 1st, 1923.
+9. In the ""To"" field, click on the calendar icon. This field is the second field from the left and is just above the records table. This field is at the right of the ""From"" field.
+10. From the calendar, click on the dropdown menu corresponding to the month selection. This dropdown menu is the one at the left in the pop up calendar menu and has the abreviation of a month written in it.
+11. In the gray list showing all the available months, click on the entry corresponding to the current month.
+12. From the calendar, click on the dropdown menu corresponding to the year selection. This dropdown menu is the one at the right in the pop up calendar menu.
+13. In the gray list showing all the available years, scroll down until you find the current year. Click on that entry.
+14. Click on the day that corresponds to the current date on the calendar menu. This will select the current date as the ""To"" date.
+15. Click on the ""Show By"" dropdown menu, located directly to the right of the text “Show By:”. This dropdown menu is at the left of the gray ""Refresh"" button, above the records table.
+16. Click on “Year” in the dropdown menu. It is the third entry and is below the ""Month"" option.
+17. click on the gray ""Refresh"" button at the right of the ""Show By"" dropdown menu. This button is above the records table.
+18. Scroll down through all records. Keep track of how many total orders each customer has made. The customer can be identified by their name, located in the second column of the data table. The number of orders they made on a given occasion is given in the ""Orders"" column of the data table. this column is the third one.
+19. The answer is the customer with 2 orders in the entire history from your calculations in the previous step.",19,16,0.5,0.75,0.8947368421052632
+"Here is the standard operating procedure (SOP) for the workflow demonstrated in the provided screenshots:
+
+1. Navigate to the ""Generic open source Reddit clone"" web application.
+
+2. Scroll down the list of submissions on the main page until you find the ""technology"" forum listed in the sidebar under ""Subscribed forums"".
+
+3. Click on the ""technology"" forum link in the sidebar.
+
+4. On the ""technology"" forum page, click the ""Create submission"" button located in the top right corner.
+
+5. In the ""Create submission"" form, type ""How can open-source LLMs help the technology field?"" in the ""Title"" field.
+
+6. Leave the ""URL"" and ""Body"" fields blank.
+
+7. Ensure that the ""technology"" forum is selected in the ""Forum"" dropdown menu at the bottom of the form.
+
+8. Click the ""Create submission"" button at the bottom of the form.
+
+9. You will be redirected to the new submission page titled ""How can open-source LLMs help the technology field?"".
+
+The workflow is now complete, and your submission has been posted to the ""technology"" forum.",647 @ 2024-01-01-09-41-54,647,Claude3,FALSE,TRUE,TRUE,FALSE,Claude3--False--True--True--False,"1. Click on the white ""Forums"" option in the top menu, right to the ""Postmill"" option.
+2. Click on the gray ""Alphabetical"" option in the top menu, under the red bar at the top of the screen.
+3. Click on the red ""technology"" link in the fifth column, under the ""T"" section.
+4. Click on the red ""+ Submit"" button at the top of the screen, right to the ""email"" icon.
+5. Type ""How can open-source LLMs help the technology field?"" in the ""Title"" text box under the ""URL"" text box.
+6. Click on the red ""Create submission"" button under the ""Forum"" dropdown menu.",6,10,0.3,0.4,0.3333333333333333
+"1. Navigate to the ""Generic open source Reddit clone"" web application using your preferred web browser.
+2. Log in to your account by clicking on the ""Log In"" button located at the top right corner of the homepage. Enter your username and password in the respective fields and click the ""Log In"" button to proceed.
+3. Once logged in, locate the search bar at the top of the screen. The placeholder text in the search bar is ""Search..."", and it is located in the center of the navigation bar.
+4. Type ""Star Trek Starfleet Academy series"" into the search bar and press the ""Enter"" key on your keyboard to initiate the search.
+5. Scroll through the search results until you find your post about the Star Trek Starfleet Academy series. The posts in the search results will have the title in bold and the username of the poster underneath.
+6. Click on the title of your post to open the full post page.
+7. On the post page, locate the ""Edit"" button. This button is typically found below the post's body text, often aligned to the right or left depending on the layout.
+8. Click on the ""Edit"" button to enable editing mode for your post.
+9. In the editing mode, a text box containing your original post text will appear. Place your cursor at the end of the text in the body of your post.
+10. Type the line ""Every watch makes me feel like a kid again"" at the location where you placed your cursor.
+11. Review the added text to ensure it is correct and free of typos.
+12. Once you are satisfied with the edit, locate the ""Save"" button. This button is usually found below the text box or at the bottom of the editing interface.
+13. Click on the ""Save"" button to update your post with the new line added to the body.
+14. After saving, the page will refresh, and you will be able to see the updated post with the new line ""Every watch makes me feel like a kid again"" now included in the body of the post.
+15. If the edit is to your satisfaction, you can navigate away from the page or log out by clicking on your username at the top right corner and selecting ""Log Out"" from the dropdown menu.",733 @ 2024-01-04-20-18-46,733,GPT4,FALSE,TRUE,FALSE,FALSE,GPT4--False--True--False--False,"
+1. Click into the search bar at the top of the page.
+2. Type in the subject of interest: Star Trek Starfleet Academy.
+3. Press enter.
+5. Click the gray text “edit” below the post body for the post where this button exists. If you can see the “edit” button it means you made the post.
+6. Click into the text box below the text “Body”.
+7. Press enter to make a new line.
+8. Type in the desired addition to the body.
+9. Click the red “Edit submission” button near the bottom of the page. Scroll down to find the button if necessary.",8,15,0.4666666666666667,0.5333333333333333,0.75
+"1. Click on the ""Forums"" link located in the top navigation bar to view the list of available forums.
+
+2. Click on the ""Alphabetical"" link located below the ""Forums"" heading to view all forums listed in alphabetical order.
+
+3. Scroll down the list of forums until you find the ""nyc"" forum, and click on the link titled ""nyc"".
+
+4. On the ""Create submission"" page, click inside the text field labeled ""Title *"" to activate the text cursor.
+
+5. Type the question ""is car necessary in NYC?"" into the ""Title *"" text field.
+
+6. Click on the ""Create submission"" button located at the bottom of the form to submit the question to the ""nyc"" forum.
+
+7. The page will refresh, and you will be taken to the thread page displaying your submitted question titled ""is car necessary in NYC?"".",601 @ 2023-12-30-22-56-49,601,Claude3,FALSE,TRUE,TRUE,TRUE,Claude3--False--True--True--True,"1. Click on the white ""Forums"" option in the top menu, right to the ""Postmill"" option.
+2. Click on the gray ""Alphabetical"" option in the top menu, under the red bar at the top of the screen.
+3. Click on the red ""nyc"" link in the fourth column, under the ""N"" section.
+4. Click on the red ""+ Submit"" button at the top of the screen, right to the ""email"" icon.
+5. Type ""is car necessary in NYC?"" in the ""Title"" text box under the ""URL"" text box.
+6. Click on the red ""Create submission"" button under the ""Forum"" dropdown menu.",6,7,0.8571428571428571,0.8571428571428571,0.5
+"1. On the homepage of the ""One Stop Market"" website, enter the search term ""toothpaste"" in the search bar located at the top right corner of the page, and click the search icon or press Enter.
+
+2. On the search results page, you will see various toothpaste products displayed. Scroll down to locate the desired toothpaste product you wish to add to your wish list.
+
+3. Once you have found the desired toothpaste product, click on the ""Add to Cart"" button located below the product image and details.
+
+4. A pop-up window titled ""My Wish List"" will appear at the bottom of the screen, displaying the items currently in your wish list. The toothpaste product you just added should be listed there.
+
+5. Click on the ""My Wish List"" link located in the top navigation bar or the pop-up window to view your full wish list.
+
+6. On the ""My Wish List"" page, you should see the toothpaste product you added, along with any other items previously added to your wish list.
+
+7. Verify that the desired toothpaste product has been successfully added to your wish list.",512 @ 2023-12-26-23-44-03,512,Claude3,FALSE,TRUE,TRUE,FALSE,Claude3--False--True--True--False,"
+
+1. Locate the search bar at the top right of the screen labeled “Search entire store here…”
+2. Click on the search bar to focus it.
+3. Type “toothpaste” into the search bar.
+4. Click on the magnifying glass icon at the right of the search bar to submit the search request.
+5. Scroll down to identify a product related to toothpaste.
+6. Locate the heart shaped button at the bottom of the product view, to the right of the blue “Add to Cart” button.
+7. Click on the heart shaped button to add the product to the wish list.",7,7,0.2857142857142857,0.2857142857142857,0.5714285714285714
+"1. Click the green button labeled ""New Project"" in the top left corner of the screen.
+2. In the ""New Project"" window, click on the ""Create blank project"" option.
+3. In the ""Project name"" field, type ""web_arena"".
+4. In the ""Project URL"" field, type ""http://ec2-13-59-140-179.us-east-2.compute.amazonaws.com/web_arena"".
+5. In the ""Visibility Level"" section, select the ""Public"" option.
+6. In the ""Project Configuration"" section, select the ""Initialize with a README"" checkbox.
+7. Click the green ""Create project"" button in the bottom right corner of the window.
+8. Click on the ""Members"" tab in the left sidebar.
+9. Click on the blue ""Invite members"" button in the top right corner of the page.
+10. Type ""Abishek"" in the search bar.
+11. Click on the ""Abishek S"" option that appears in the search results.
+12. Click on the green ""Add"" button on the right-hand side of the row for ""Abishek S"".
+13. Type ""Vinta"" in the search bar.
+14. Click on the ""Vinta Chen"" option that appears in the search results.
+15. Click on the green ""Add"" button on the right-hand side of the row for ""Vinta Chen"".
+16. Click the green ""Invite members"" button in the bottom right corner of the window.",743 @ 2024-01-07-12-20-29,743,GeminiPro,FALSE,TRUE,TRUE,FALSE,GeminiPro--False--True--True--False,"1. Click on the blue ""New Project"" button on the top right of the screen.
+2. Click the ""Create blank project"" card on the screen.
+3. Click the textbox next to ""Project name"".
+4. Enter ""web_arena"".
+5. Click the dropdown next to ""Project URL"".
+6. Select ""ByteBlaze"" from the dropdown.
+7. Click the ""Public"" radio button under the ""Visibility Level"" section.
+8. Click on the blue ""Create Project"" button at the bottom of the form.
+9. On the menu on the left hand side of the screen, click on ""Project Information"".
+10. From the sub-menu, click on the gray text ""Members"".
+11. Click the blue “Invite members” button on the top right of the page.
+12. Enter “Abishek” in the search field.
+13. Click the icon from the popup that has that name.
+14. Enter ""Vinta"" in the search field.
+15. Click the icon from the popup that has that name.
+16. Click the blue “Invite” button on the bottom right of this form.",16,16,0.5625,0.5625,0.5
+"1. Sign in to your GitLab account by entering your credentials on the login page.
+2. After logging in, click on your profile icon located in the top-right corner of the screen.
+3. From the dropdown menu, select ""Preferences"".
+4. On the Preferences page, click on the ""Access Tokens"" tab located on the left-hand side menu.
+5. Scroll down to the ""Personal Access Tokens"" section.
+6. Click on the ""Create a personal access token"" button.
+7. In the ""Name"" field, enter a descriptive name for your token, e.g., ""RSS Feed Token"".
+8. Under the ""Scopes"" section, check the box next to ""api"" to grant the token access to the GitLab API.
+9. Optionally, you can set an expiration date for the token by selecting a date from the ""Expires at"" dropdown.
+10. Click on the ""Create personal access token"" button.
+11. Your personal access token will be displayed on the next page. Copy this token as it will not be shown again.
+12. To obtain the RSS feed URL for your GitLab account, append the following to the GitLab URL: ""/user/[YOUR_USERNAME].atom"", replacing [YOUR_USERNAME] with your actual GitLab username.
+13. Use the personal access token you just generated as the password when accessing the RSS feed URL.
+
+You now have your GitLab RSS feed token and the URL to access your personal RSS feed.",259 @ 2023-12-30-14-47-53,259,Claude3,FALSE,TRUE,FALSE,FALSE,Claude3--False--True--False--False,"
+1. Click the user profile icon in the top right of the screen in the purple bar to open a dropdown menu.
+2. Within the dropdown menu, click on ""Edit Profile"".
+3. Click the ""Access Tokens"" button from the left sidebar under ""User Settings"".
+4. Scroll down to the bottom of the page until ""Feed token"" appears in bold, which corresponds to the ""Feed token"" section.
+5. Click on the ""Click to reveal"" icon, which is shaped like an eye, located at the right of the text box under ""Feed token"". This makes the RSS feed token visible.
+6. Given the information, state the RSS feed token shown in the textbox under ""Feed token"".",6,13,0.1538461538461538,0.1538461538461538,0.5
+"1. Click on the ""+Submit"" button located at the top right corner of the screen.
+
+2. In the ""Create submission"" form that appears, enter the text ""Recommendations for Sony headphone products within a budget of $500"" in the ""Title"" field.
+
+3. Scroll down to the ""Forum"" dropdown menu and select the ""headphones"" option from the list.
+
+4. Click on the ""Create submission"" button at the bottom of the form.
+
+5. On the new page that loads, you should see your submission titled ""Recommendations for Sony headphone products within a budget of $500"" under the ""/r/headphones"" section.
+
+6. You can now proceed to post comments or additional details in the text field below your submission by typing in the text area and clicking the ""Post"" button.
+
+The workflow for posting in the most appropriate subreddit (in this case, ""/r/headphones"") and asking for recommendations for Sony headphone products within a budget of $500 is now complete.",637 @ 2024-01-01-19-56-36,637,Claude3,FALSE,TRUE,TRUE,FALSE,Claude3--False--True--True--False,"1. In the red header at the top of the screen, click on the ""Submit"" button with the plus sign to the left of it
+2. Locate and click on the ""Title"" textbox and type in ""Product recommendations for recommendations for sony headphones products within a budget of $500""
+3. Locate and click on the ""Forum"" drop-down menu and locate and click on ""headphones"", a relvant forum, by typing in ""headphones""
+4. Click on the red ""Create submission"" button at the bottom",4,6,0.6666666666666666,0.6666666666666666,1
+"1. Click on the 'Submit' button in the top right corner of the screen.
+2. Click on the text labeled 'None' in the 'Choose a forum' section.
+3. Type the string 'Advice about relationship with sexual harassment?' in the text field labeled 'None'.
+4. Click on the text labeled 'Choose one…' in the 'Choose a forum' section.
+5. Type the string 'rela' in the text field labeled 'searchbox'.
+6. Click on the text labeled 'relationship_advice'.
+7. Click on the button labeled 'Create submission'.",622 @ 2024-01-01-19-21-28,622,GeminiPro,FALSE,TRUE,TRUE,TRUE,GeminiPro--False--True--True--True,"1. In the red header at the top of the screen, click on the ""Submit"" button with the plus sign to the left of it
+2. Locate and click on the ""Title"" textbox and type in ""Advice for relationship with sexual harassment""
+3. Locate and click on the ""Forum"" drop-down menu and begin typing ""relationship_advice"" -- locate and click on ""relationship_advice""
+4. Click on the red ""Create submission"" button at the bottom",4,7,0.4285714285714285,0.4285714285714285,0.75
+"1. Open the web browser and navigate to the ""Generic open source Reddit clone"" website.
+
+2. Locate the ""Login"" or ""Sign In"" button, typically found in the top-right corner of the website, and click on it.
+
+3. Enter your username and password in the respective fields and click on the ""Login"" or ""Submit"" button.
+
+4. Once logged in, locate the ""Create Post"" or ""Submit Link"" button, which is usually prominently displayed on the website.
+
+5. Click on the ""Create Post"" or ""Submit Link"" button.
+
+6. On the ""Create Post"" or ""Submit Link"" page, locate the field for entering the post title and type ""What could large language models help the correpong field?"".
+
+7. In the main content field or text editor, write your post detailing your thoughts on how large language models could assist or contribute to the correpong field.
+
+8. Scroll down and locate the ""Subreddit"" or ""Community"" selection field or dropdown menu.
+
+9. Select the ""dataisbeautiful"" subreddit or community from the list of available options.
+
+10. If there are any additional fields or options, such as adding tags, flair, or uploading images, fill them out as desired or skip them if not required.
+
+11. Once you have completed the post details, locate the ""Submit"" or ""Post"" button, usually located at the bottom of the page.
+
+12. Click on the ""Submit"" or ""Post"" button to publish your post in the ""dataisbeautiful"" forum.
+
+13. If prompted, review your post and make any necessary changes before confirming the submission.
+
+14. Your post should now be visible in the ""dataisbeautiful"" forum for other users to view, comment, and engage with.
+
+Note: The specific terminology and layout may vary depending on the exact implementation of the ""Generic open source Reddit clone"" website. However, the general process of logging in, creating a new post, selecting the target community or subreddit, and submitting the post should be similar.",648 @ 2024-01-01-09-42-54,648,Claude3,FALSE,TRUE,FALSE,FALSE,Claude3--False--True--False--False,"1. Click on the white ""Forums"" option in the top menu, right to the ""Postmill"" option.
+2. Click on the gray ""Alphabetical"" option in the top menu, under the red bar at the top of the screen.
+3. Click on the red ""dataisbeautiful"" link in the first column, under the ""D"" section.
+4. Click on the red ""+ Submit"" button at the top of the screen, right to the ""email"" icon.
+5. Type ""How can large language models help the dataisbeautiful field?"" in the ""Title"" text box under the ""URL"" text box.
+6. Click on the red ""Create submission"" button under the ""Forum"" dropdown menu.",6,15,0.2666666666666666,0.4,0.3333333333333333
+"1. Click on the link labeled 'Explore' in the left-hand navigation menu.
+2. Click on the text field labeled 'Filter by name' in the upper right corner of the page.
+3. Type the string 'Android' in the text field labeled 'Filter by name'.
+4. Click on the text labeled 'AndroidSlidingUpPanel'.
+5. Click on the text labeled 'Issues'.
+6. Click on the text field labeled 'Search'.
+7. Type the string 'BUG' in the text field labeled 'Search'.
+8. Press the key 'Enter' in the text field labeled 'Search'.",106 @ 2023-12-30-12-35-44,106,GeminiPro,FALSE,TRUE,TRUE,TRUE,GeminiPro--False--True--True--True,"1. Click on the ""Explore"" tab located in the top navigation bar, directly to the right of the ""Starred"" tab. This will direct you to a page where you can search and filter through available repositories.
+2. Click in the ""Filter by name"" search box, which you can find in the upper-right corner of the ""Explore"" page. This box is labeled with a placeholder text ""Filter by name,"" suggesting that you can type here to search for specific projects or repositories by their names.
+3. Type the repository name into the search box, in this case its ""AndroidSlidingUpPanel"". Ensure that the box is clear of any previous text before you start typing. This step is crucial as it narrows down the search results to include only those repositories that match or closely match the text ""AndroidSlidingUpPanel"".
+4. From the list of search results that appear below the search box, locate the repository from the correct user, in this case it is ""Umano: News Read To You / AndroidSlidingUpPanel"". If you do not immediately see this repository, you may need to scroll down through the search results.
+5. Click on the ""Issues"" tab located on the left side of the repository's page. This tab is part of a horizontal menu that includes other options like ""Merge Requests"" ""CI/CD"" and ""Deployments"". The ""Issues"" tab will take you to a page listing all the issues associated with the Umano/AndroidSlidingUpPanel repository.
+6. Click in the ""Search"" bar at the top of the issues page. This search bar is specifically for filtering and finding issues within the repository. It is typically labeled with placeholder text such as ""is:issue is:open"" or ""Search all issues"".
+7. Click the ""Label"" options from the dropdown menu that appears upon clicking the search bar. This action specifies that your upcoming search term should be considered a label attached to issues. In this case we are interested in the BUG label.
+8. Click the equals sign ""="" that appears next to the ""Label"" option you just selected. This action sets the search filter to match exactly with the label name you are about to enter, ensuring that only issues with labels that exactly match your search term are displayed.
+9. Type ""BUG"" after the equals sign in the search bar. This action is directing the search to filter for issues that are specifically labeled with ""BUG"", which typically indicates issues related to bugs within the project.
+10. From the autocomplete suggestions that appear as you type, click on the label that is named ""BUG"". This action ensures that you are selecting the correct label for filtering the issues.
+11. Press the ""Enter/Return"" key on your keyboard to submit your search query. This action will filter the list of issues to display only those that have been labeled with ""BUG"". The resulting list of issues that are displayed on the page now specifically includes those in the Umano/AndroidSlidingUpPanel repository that have been tagged with the ""BUG"" label. If the full list of issues is not immediately visible due to the length of the page, scroll to view all the listed issues.",11,8,0.75,0.75,0.6363636363636364
+"1. Move the mouse cursor to the top of the screen and hover over the ""My Account"" tab located in the upper righthand corner. A dropdown menu will appear below the tab.
+2. Click the ""Orders"" hyperlink located in the dropdown menu which appears below the ""My Account"" tab.
+3. Scroll down the page until a table appears below the subheading located under the ""General"" section. 
+4. Click on the ""View"" button located in the ""Action"" column next to the order that needs to be reviewed. The ""Action"" column is the most righthand column in the table.
+5. Scroll down the page and locate the ""Total Refund"" section located below the ""Refund Summary"" heading.",319 @ 2024-01-01-00-19-57,319,GeminiPro,FALSE,TRUE,FALSE,FALSE,GeminiPro--False--True--False--False,"1. Click on the blue ""My Account"" button on the top right of the page. It will be the first option of the menu. Additionally, this button is to the left of the ""My Wish List"" option.
+2. From the left gray sidebar menu, click on the second option called ""My Orders."" This option is located below ""My Account"".
+3. Keep switching pages until an order that was cancelled in April 2022 is found. In this case, from the orders shown, none of them are an order that was cancelled in April 2022 so click the right arrow at the bottom of the table.
+4. From the orders shown, none of them are an order that was cancelled in April 2022 so click the right arrow at the bottom of the table.
+5. From the orders shown, none of them are an order that was cancelled in April 2022 so click the right arrow at the bottom of the table.
+6. Since there were no orders placed in April 2022 that are classified as cancelled, report the expected refund of 0. If there was a cancelled order placed in April 2022, then report the expected refund.",6,5,0,0,0
+"1. Click on the drop-down arrow to the right of your user profile image at the top right-hand corner of the screen.
+2. In the drop-down menu that appears, click on the entry labeled ""Todos"".
+3. A page will load that displays all of the to-dos assigned to you. The page will contain a list of to-dos going down the page.",44 @ 2024-01-05-03-59-01,44,GeminiPro,FALSE,TRUE,FALSE,FALSE,GeminiPro--False--True--False--False,"
+1. Click the todos button, which is an icon that looks like a box with a check in it. This button is in the top purple bar, and is the third button from the right of the screen. At its right, there is a button with a ""?"" surrounded by a circle.
+2. Scroll down until you reach the end of the page. Each of the entries you see is one of the todos in the todo list. Each entry is divided by a horizontal gray line and are distinguishable because each entry has a thumbnail image at the left.",2,3,0.3333333333333333,0.3333333333333333,0.5
+"1. Navigate to the Generic e-commerce admin based on Adobe Magneto<br>
+2. Click on ""Reports"" in the left-hand sidebar.<br>
+3. Click on ""Marketing"" in the subheading located under the ""General"" section.<br>
+4. Click on ""Search Terms.""<br>
+5. Scroll down to the ""Brand"" section.<br>
+6. Click on the ""Most Frequent"" tab.<br>
+7. The top 10 brands that appear most frequently among the top search terms will be displayed.",127 @ 2024-01-08-19-59-09,127,GeminiPro,FALSE,TRUE,FALSE,FALSE,GeminiPro--False--True--False--False,"1. Click on the ""Reports"" button on the far left-hand sidebar of the website's homepage. This button has an icon resembling a chart or graph. It can be found positioned above the ""Stores"" button and below the ""Content"" button.
+2. Click on ""Search Terms"" in the ""Marketing"" subsection of the popout sidebar.
+3. Click on the ""Hits"" column heading to sort the search terms by their hit count. If the list does not immediately sort in descending order (showing the highest numbers first), click the ""Hits"" column heading again. Sorting by hits allows us to identify the most popular search terms first. Examine the sorted table for brand names that appear among the top search terms. Given that the table is now sorted by hit count, the most frequently appearing brands should be among the first few entries. You might need to scroll through the first page of results or navigate through multiple pages of the table if the website paginates search term results. Identifying brand names within the list of search terms, may require some judgment to distinguish between generic terms and specific brand names.",3,7,0.5714285714285714,0.5714285714285714,0.6666666666666666
+"1. Click the search bar at the top left of the screen. The placeholder text in the search bar is ""Find a repository..."".
+2. Type the name of the repository in the search bar.
+3. A list of repositories will appear on the next page. Scroll down until you see a repository with the desired name. The name of the repository will be on the lefthand side of the row in bold font. Stop when you find the name of the repository.
+4. Click on the relevant repository to go to the repository's main page.
+5. Scroll down until you see the ""Commits"" section.
+6. Click on the ""Commits"" section.
+7. A list of commits will appear on the next page. Scroll down until you see the commit you are looking for.
+8. Click on the commit you are looking for to go to the commit's page.
+9. Scroll down until you see the ""Author"" section.
+10. Click on the ""Author"" section.
+11. A list of authors will appear on the next page. Scroll down until you see the author you are looking for.
+12. Click on the author you are looking for to go to the author's page.
+13. Scroll down until you see the ""Commits"" section.
+14. Click on the ""Commits"" section.
+15. A list of commits will appear on the next page. Scroll down until you see the commit you are looking for.
+16. Click on the commit you are looking for to go to the commit's page.
+17. Scroll down until you see the ""Date"" section.
+18. Click on the ""Date"" section.
+19. A list of dates will appear on the next page. Scroll down until you see the date you are looking for.
+20. Click on the date you are looking for to go to the date's page.
+21. A list of commits will appear on the next page. Scroll down until you see the commit you are looking for.
+22. Click on the commit you are looking for to go to the commit's page.
+23. Scroll down until you see the ""Files"" section.
+24. Click on the ""Files"" section.
+25. A list of files will appear on the next page. Scroll down until you see the file you are looking for.
+26. Click on the file you are looking for to go to the file's page.
+27. Scroll down until you see the ""Blame"" section.
+28. Click on the ""Blame"" section.
+29. A list of lines of code will appear on the next page. Scroll down until you see the line of code you are looking for.
+30. Click on the line of code you are looking for to go to the line of code's page.
+31. Scroll down until you see the ""Author"" section.
+32. Click on the ""Author"" section.
+33. A list of authors will appear on the next page. Scroll down until you see the author you are looking for.
+34. Click on the author you are looking for to go to the author's page.
+35. Scroll down until you see the ""Commits"" section.
+36. Click on the ""Commits"" section.
+37. A list of commits will appear on the next page. Scroll down until you see the commit you are looking for.
+38. Click on the commit you are looking for to go to the commit's page.
+39. Scroll down until you see the ""Date"" section.
+40. Click on the ""Date"" section.
+41. A list of dates will appear on the next page. Scroll down until you see the date you are looking for.
+42. Click on the date you are looking for to go to the date's page.
+43. A list of commits will appear on the next page. Scroll down until you see the commit you are looking for.
+44. Click on the commit you are looking for to go to the commit's page.
+45. Scroll down until you see the ""Files"" section.
+46. Click on the ""Files"" section.
+47. A list of files will appear on the next page. Scroll down until you see the file you are looking for.
+48. Click on the file you are looking for to go to the file's page.
+49. Scroll down until you see the ""Blame"" section.
+50. Click on the ""Blame"" section.
+51. A list of lines of code will appear on the next page. Scroll down until you see the line of code you",205 @ 2023-12-30-13-02-59,205,GeminiPro,FALSE,TRUE,TRUE,FALSE,GeminiPro--False--True--True--False,"1. Click on the ""Commits"" button just underneath the project title.
+2. Given the information, state how many commits kilian made on 3/5/2023.",2,51,0.078431373,0.078431373,0.5
+"1. Navigate to the web application's homepage. In the top navigation bar, click on the ""Forums"" tab, which is located to the left of the ""Wiki"" tab.
+2. On the ""Forums"" page, click on the ""Alphabetical"" tab, which is located below the main navigation bar and to the right of the ""Tags"" tab.
+3. Scroll down the alphabetical list of forums until you find the forum titled ""pittsburgh."" The forums are listed in a column format, with each forum name being a clickable link.
+4. Click on the ""pittsburgh"" forum link to navigate to the specific forum page dedicated to topics related to the city of Pittsburgh.
+5. Once on the ""pittsburgh"" forum page, click on the red ""Submit"" button located in the top navigation bar, to the right of the ""Wiki"" tab and directly above the forum name ""pittsburgh.""
+6. On the ""Create submission"" page, click on the ""Title"" field and type in your question ""places for new drivers to learn driving."" The ""Title"" field is marked with an asterisk (*) indicating it is required and is located below the ""URL"" and ""Image"" tabs.
+7. Click on the ""Body"" field to provide any additional information or context for your question, if necessary. The ""Body"" field is located below the ""Title"" field.
+8. Ensure that the ""Forum"" dropdown menu, located below the ""Body"" field, is set to ""pittsburgh,"" which should be displayed with a red heart icon next to it.
+9. Click on the red ""Create submission"" button located below the ""Forum"" dropdown menu to post your question to the ""pittsburgh"" forum.
+10. After submitting, you will be redirected to the ""pittsburgh"" forum page where your new submission titled ""places for new drivers to learn driving"" should now be visible at the top of the list of submissions.",607 @ 2023-12-31-13-30-17,607,GPT4,FALSE,TRUE,TRUE,FALSE,GPT4--False--True--True--False,"1. Click on the white text ""Forums"" in the top red navigation bar, directly to the right of the ""Postmill"" option and to the left of the ""Wiki"" option.
+2. Click on the gray ""Alphabetical"" text in the menu at the top of the screen which is directly below the top navigation bar. It is located directly to the right of the ""Tags"" option.
+3. A list of All Forums should now be visible. Since we want to find topics related to Pittsburgh, click on the red link labeled ""pittsburgh"" to go to the Pittsburg subreddit. This link is located in the fourth column from the left, under the ""P"" section.
+4. We can now see the list of top submissions for the Pittsburgh subreddit. To post our question, click on the red ""+ Submit"" button at the top of the screen, directly to the right of the ""email"" icon.
+5. Click on the text field called ""Title"" to focus it. It is located in the middle of the ""Create submission"" panel under the text field labeled ""URL"".
+6. Type our question into the text field: ""places for new drivers to learn driving"".
+7. Click on the red ""Create submission"" button at the bottom of the page, directly under the ""Forum"" dropdown menu. You may need to scroll down until the Create submission button is visible.",7,11,0.45454545454545453,0.5454545454545454,0.8571428571428571
+"1. Click on the search bar at the top center of the screen, which has the placeholder text ""Search entire store here..."". The search bar is located next to the magnifying glass icon.
+2. Type 'EYZUTAK phone cases' into the search bar.
+3. Press the 'Enter' key on your keyboard to initiate the search.
+4. Scroll through the search results if necessary until you find the product titled 'EYZUTAK Electroplated Magnetic Ring Holder Case, 360 Degree with Rotation Metal Finger Ring Holder Magnet Car Holder Soft Silicone Shockproof Cover for iPhone 7 iPhone 8 iPhone SE 2020 - Drak Green'. This product link is listed among other items and can be identified by its descriptive title and accompanying image.
+5. Click on the link for the 'EYZUTAK Electroplated Magnetic Ring Holder Case' to view the product's detailed page.
+6. On the product detail page, scroll down to the 'Details' and 'Reviews' tabs, which are located below the product images and the 'Add to Cart' button.
+7. Click on the 'Reviews' tab to view customer reviews for the product.
+8. Read through the reviews to identify any customer names who have complained about the quality of the EYZUTAK phone cases. Look for reviews with lower star ratings and read the comments for complaints.
+9. If there are multiple pages of reviews, use the pagination controls at the bottom of the reviews section to navigate to the next page of reviews by clicking on the page number or the 'Next' arrow.
+10. Continue reading through the reviews on subsequent pages, noting down the names of customers who have left complaints about the product quality.",384 @ 2024-01-05-15-10-54,384,GPT4,FALSE,TRUE,TRUE,TRUE,GPT4--False--True--True--True,"
+1. Click into the search bar in the top right corner of the page to focus it. The search bar has an icon of a magnifying glass at its rightmost end, and is located directly to the left of the shopping cart icon.
+2. Type in the name of the desired product to create the search query. In this case, we type in “EYZUTAK phone cases”.
+3. Press enter to search for the desired product.
+4. Look through each row of search results to locate the desired product, in this case “EYZUTAK phone cases”, scrolling down if necessary. The desired product can be identified by finding a search result with a product name that matches our desired product. Each product's name can be found directly under each product’s picture. Since the search results are automatically sorted by relevance, it’s likely our product will appear in the first few rows. In this case, the product appears as the first item in the first row of results.
+5. Scroll down to find the “Reviews” tab. The product page’s tabs are located below the product picture and directly to the right of the “Details” tab.
+6. Click on the “Reviews” tab to view the product’s reviews. After clicking on the “Reviews” tab, it should go from being grayed out to white and black.
+7. Scroll down through all product reviews on this page of reviews. Keep track of customer names for reviews that satisfy the given criteria, in this case reviews that complain about the quality of the product. The customer name is the bolded text in each review’s content, directly below the star icons. The content of the review can be found directly to the right of the star icons.
+8. Click on the next page of reviews, in this case the blue number “2” located directly to the right of the bolded number “1”, to see the rest of the product’s reviews. Since there is another page of reviews, we need to read reviews on that page as well in order to find all customers who complain about the quality of the product.
+9. Scroll down through all product reviews on this page of reviews. Keep track of customer names for reviews that satisfy the given criteria, in this case reviews that complain about the quality of the product. The customer name is the bolded text in each review’s content, directly below the star icons. The content of the review can be found directly to the right of the star icons.
+10. After we have scrolled through all pages of reviews, we need to return the customer names of all reviews we read that complained about the quality of the desired product, in this case “EYZUTAK phone cases”.",10,10,0.9,0.9,0.9
+"1. Click on the search bar at the top of the GitLab dashboard, just to the right of the GitLab logo. The placeholder text in the search bar is ""Search GitLab"".
+2. In the search dropdown, click on ""All GitLab"" to search across the entire GitLab instance.
+3. In the search bar, type ""dotfiles"" and press Enter to search for the ""dotfiles"" repository.
+4. From the search results, click on the repository named ""dotfiles"" with the ""Computer setup"" description.
+5. On the repository page, click on the ""Members"" link in the left sidebar.
+6. On the ""Members"" page, click the ""Invite members"" button in the top right corner.
+7. In the ""Invite members"" modal, type ""Koushik"" in the ""Username or email address"" field.
+8. From the suggested accounts, select ""Koushik Dutta @koush"" by clicking on it.
+9. In the ""Select a role"" dropdown, select ""Guest"".
+10. Leave the ""Access expiration date"" field blank for no expiration date.
+11. Click the ""Invite"" button to add Koushik as a guest member to the repository.
+12. Verify that Koushik has been successfully added as a guest member in the ""Project members"" list.",483 @ 2023-12-26-09-27-35,483,Claude3,FALSE,TRUE,TRUE,FALSE,Claude3--False--True--True--False,"
+
+
+
+1. Locate the search bar labeled “Search GitLab”, located in the top left of the screen, in the dark purple header.
+2. Click on the search bar to focus it.
+3. Type in ""solarized-prism-theme"" in the search bar.
+4. Click on the project ""dotfiles"" out of the available options.
+5. Locate the “Project information” button on the top right side of the screen, in the light gray sidebar.
+6. Click on the “Project information” button to reveal the dropdown options.
+7. Click on the ""Members"" option in the Project information section.
+8. Identify the blue “Invite members” button at the top right of the screen.
+9. Click on the blue “Invite members” button to reveal a pop-up menu.
+10. Locate the text box below the “Username or email address” black text.
+11. Click on the textbox to focus it.
+12. Type the name ""Koushik"" in the textbox.
+13. Click on ""Koushik Dutta"" out of the available options under the ""Username or email address"" input box.
+14. Navigate to the bottom right of the pop-up menu to find the blue “Invite” button.
+15. Click on the blue ""Invite"" button in the pop-up menu.",15,12,0.5833333333333334,0.6666666666666666,0.8
+"Here is the standard operating procedure (SOP) for completing the workflow of posting in the ""dataisbeautiful"" forum about how large language models can help the field, based on the provided screenshots:
+
+1. Start on the main page of the ""Generic open source Reddit clone"" website, which shows a list of recent submissions across various forums.
+2. Click on the ""Forums"" link in the top navigation bar to view a list of available forums.
+3. Scroll down the list of forums until you find the ""dataisbeautiful"" forum, and click on it to navigate to that specific forum.
+4. Once in the ""dataisbeautiful"" forum, click on the ""+Submit"" button in the top right corner to create a new submission.
+5. In the ""Create submission"" form, leave the ""URL"" and ""Image"" fields blank.
+6. In the ""Title"" field, type ""How can large language models help the dataisbeautiful field?"".
+7. Leave the ""Body"" field blank.
+8. Ensure that the ""Forum"" dropdown is set to ""dataisbeautiful"".
+9. Click the ""Create submission"" button at the bottom of the form to submit the post.
+10. You will be redirected to the newly created submission page, which shows your post titled ""How can large language models help the dataisbeautiful field?"" in the ""dataisbeautiful"" forum.",648 @ 2024-01-01-09-42-54,648,Claude3,FALSE,TRUE,TRUE,FALSE,Claude3--False--True--True--False,"1. Click on the white ""Forums"" option in the top menu, right to the ""Postmill"" option.
+2. Click on the gray ""Alphabetical"" option in the top menu, under the red bar at the top of the screen.
+3. Click on the red ""dataisbeautiful"" link in the first column, under the ""D"" section.
+4. Click on the red ""+ Submit"" button at the top of the screen, right to the ""email"" icon.
+5. Type ""How can large language models help the dataisbeautiful field?"" in the ""Title"" text box under the ""URL"" text box.
+6. Click on the red ""Create submission"" button under the ""Forum"" dropdown menu.",6,11,0.2727272727272727,0.5454545454545454,0.6666666666666666
+"1. Click the **My Account** tab at the top right corner of the screen.
+2. Click **My Orders** in the left-hand menu.
+3. Scroll down to the order placed in November 2022.
+4. Click **View Order** on the right-hand side of the order.
+5. Scroll down to the **Order Total** and note the amount.",333 @ 2024-01-01-13-19-13,333,GeminiPro,FALSE,TRUE,TRUE,FALSE,GeminiPro--False--True--True--False,"1. Click on the blue ""My Account"" button on the top right of the page. It will be the first option of the menu. Additionally, this button is to the left of the ""My Wish List"" option.
+2. From the left gray sidebar menu, click on the second option called ""My Orders."" This option is located below ""My Account"".
+3. Since no orders from November 2022 are shown, click the right arrow at the bottom of the table.
+4. Click on the first row with a date corresponding to November 2022 (11/26/2022).
+5. Scroll down to see the grand total and the payment method. Since this payment method was with check, no discount was applied. Note the grand total amount.
+6. Scroll up until ""My Orders"" is visible again from the left sidebar.
+7. From the left gray sidebar menu, click on the second option called ""My Orders."" This option is located below ""My Account"".
+8. Since no orders from November 2022 are shown, click the right arrow at the bottom of the table.
+9. Click on the second row with a date corresponding to November 2022 (11/20/2022).
+10. Scroll down to see the grand total and the payment method. Since this payment method was with check, no discount was applied. Note the grand total amount.
+11. Scroll up until ""My Orders"" is visible again from the left sidebar.
+12. From the left gray sidebar menu, click on the second option called ""My Orders."" This option is located below ""My Account"".
+13. Since no orders from November 2022 are shown, click the right arrow at the bottom of the table.
+14. Click on the third row with a date corresponding to November 2022 (11/11/2022).
+15. Scroll down to see the grand total and the payment method. Since this payment method was with check, no discount was applied. Note the grand total amount.
+14. Sum the grand total amounts from steps 5, 10, and 15. Then, report this number as the amount spent on shopping at One Stop Market on November 2022.",16,5,0.8,0.8,0.5625
+"Here is the standard operating procedure (SOP) for the workflow of posting in the dataisbeautiful forum about how large language models can help that field, using the ""Generic open source Reddit clone"" web application:
+
+1. Click on the ""Forums"" link in the top navigation bar of the web application.
+2. On the List of Forums page, click on the ""Alphabetical"" link located under the ""Forums"" heading.
+3. On the All Forums page, scroll down and click on the ""dataisbeautiful"" link in the list of forums.
+4. On the Create Submission page, click inside the ""Title"" text field.
+5. Type the text ""How can large language models help the dataisbeautiful field?"" in the ""Title"" text field.
+6. Click on the ""Create submission"" button located at the bottom of the form.
+7. On the new page displaying the submitted post, the workflow is complete. No further actions are required.",648 @ 2024-01-01-09-42-54,648,Claude3,FALSE,TRUE,TRUE,TRUE,Claude3--False--True--True--True,"1. Click on the white ""Forums"" option in the top menu, right to the ""Postmill"" option.
+2. Click on the gray ""Alphabetical"" option in the top menu, under the red bar at the top of the screen.
+3. Click on the red ""dataisbeautiful"" link in the first column, under the ""D"" section.
+4. Click on the red ""+ Submit"" button at the top of the screen, right to the ""email"" icon.
+5. Type ""How can large language models help the dataisbeautiful field?"" in the ""Title"" text box under the ""URL"" text box.
+6. Click on the red ""Create submission"" button under the ""Forum"" dropdown menu.",6,8,0.375,0.5,0.6666666666666666
+"1. Move the cursor to the top right corner of the screen and click on the user profile icon labeled ""MarvelsGrantMan136"".
+2. From the dropdown menu that appears, click on ""My account"" to access the user account settings.
+3. On the account page, locate the ""Edit biography"" button on the right side of the screen, under the user profile summary, and click on it.
+4. In the biography text field, delete the existing text ""Seeking SDE positions"".
+5. Type ""Freelance Web Developer"" into the biography text field.
+6. Move the cursor to the ""Save"" button located below the biography text field and click on it to update the biography information.",402 @ 2024-01-06-18-26-07,402,GPT4,FALSE,TRUE,TRUE,FALSE,GPT4--False--True--True--False,"
+1. Click on the “User Account” dropdown button, located in the red navigation bar at the top of the page and directly to the right of the “Submit” dropdown to show links to account details. Since in this case the user account is “MarvelsGrantMan136”, the text on the dropdown button is “MarvelsGrantMan136”.
+2. In the drop-down menu that pops up, click on the link “Profile”, located directly to the right of a person icon and above the “My account” link, in order to navigate to the user’s profile.
+3. Click on the “Edit biography” button, located directly above the bolded text “Toolbox” and below the user’s current bio, in this case “Seeking SDE positions”. This takes you to the user bio editing page.
+4. Click into the “Biography” text box, located directly below the text “Biography” and above the bolded text “Preview”. This focuses the text box.
+5. Press and hold CTRL + A to select all the current text in the text box.
+6. Type in the desired user bio, in this case “Freelance Web Developer”. This automatically deletes the old bio as well.
+7. Click the red “Save” button, located below the Preview box and below the text “Markdown allowed.”, to save the new bio.",7,6,1,1,0.5714285714285714
+"1. Click the ""+"" button in the top-left corner of the screen. The button is located to the right of the search bar.
+2. Select the ""New project"" option from the dropdown menu.
+3. In the ""Project name"" field, type ""awesome_web_agents"".
+4. In the ""Project slug"" field, type ""awesome-web-agents"".
+5. Under the ""Visibility Level"" section, select the ""Private"" option.
+6. Under the ""Project Configuration"" section, check the box next to ""Initialize repository with a README"".
+7. Click the green ""Create project"" button at the bottom of the page.
+8. Click on the ""Members"" tab at the top of the page.
+9. Type ""Abishek"" in the search bar at the top of the page.
+10. Click on the checkbox next to ""Abishek"" to select them.
+11. Click the green ""Add members"" button at the bottom of the page.
+12. Type ""Vinta"" in the search bar at the top of the page.
+13. Click on the checkbox next to ""Vinta"" to select them.
+14. Click the green ""Add members"" button at the bottom of the page.",747 @ 2024-01-06-15-28-29,747,GeminiPro,FALSE,TRUE,TRUE,FALSE,GeminiPro--False--True--True--False,"1. Click the purple create new button (which is an icon of a plus button), located in the purple banner on the top right of the page.
+2. Click “New project/repository” option in the pop-up menu.
+3. Click the “Create blank project” card.
+4. Click into the “Project name” text box, located directly under the bolded text “Project name”.
+5. Enter ""awesome_web_agents"".
+6. Click the ""Private"" radio button under the ""Visibility Level"" section.
+7. Click on the blue ""Create Project"" button at the bottom of the form.
+8. Wait for the screen to load and the blue banner saying ""Project 'awesome_web_agents' was successfully created."" to appear.
+9. On the left menu, click on ""Project Information"".
+10. From the sub-menu, click on ""Members"".
+11. Click the blue “Invite members” button on the top right of the page.
+12. Enter ""abishek"" in the search field.
+13. Click the icon from the popup that has that name.
+14. Enter ""vinta"" in the search field.
+15. Click the icon from the popup that has that name.
+16. Click the blue “Invite” button on the bottom right of this form.",16,14,0.4285714285714285,0.4285714285714285,0.375
+"1. Log in to the ""Generic e-commerce admin based on Adobe Magneto"" web application using your admin credentials.
+
+2. In the left-hand navigation menu, locate and click on the ""Catalog"" section.
+
+3. Under the ""Catalog"" section, click on the ""Products"" option.
+
+4. On the ""Products"" page, use the search bar or filters to locate the ""green Hollister backyard sweater"" product.
+
+5. Click on the product name or select the checkbox next to it, and then click the ""Edit"" button to open the product details.
+
+6. Scroll down to the ""Price"" section and locate the price field for the product.
+
+7. Subtract $5 from the current price and enter the new price in the price field.
+
+8. Scroll down to the bottom of the page and click the ""Save"" button to apply the price change.
+
+9. If the product has multiple size variations, repeat steps 6-8 for each size variation, ensuring that the price is reduced by $5 for all sizes.
+
+10. After updating all the size variations, click the ""Save"" button again to confirm the changes.
+
+11. Navigate back to the product list or catalog view to verify that the price of the ""green Hollister backyard sweater"" in all sizes has been reduced by $5.
+
+Please note that the specific steps and terminology may vary depending on the version and customizations of the ""Generic e-commerce admin based on Adobe Magneto"" web application you are using. It's always a good practice to consult the application's documentation or seek assistance from the support team if you encounter any difficulties.",777 @ 2024-01-14-11-29-03,777,Claude3,FALSE,TRUE,FALSE,FALSE,Claude3--False--True--False--False,"1. Click on 'CATALOG' in the left gray sidebar.
+2. Click on 'Products' in the popup window.
+3. Type 'hollister' in the 'Search by keyword' search box.
+4. Hit the 'return' / 'enter' key to filter 'hollister' products.
+5. Scroll down and click on the checkboxes of all green hollister sweatshirts. Any row that has ""green"" and ""Hollister"" in its title should be selected.
+6. Click on the dropdown box 'Actions' under the 'Search' button.
+7. Click on 'Update Attributes' in the dropdown list.
+8. Scroll down and click on the 'Change' checkbox under 'Price'.
+9. Type the price that is $5 less than the original price of the products.
+10. Click on the 'Save' orange button on the top right.",10,12,0.5,0.6666666666666666,0.6
+"1. Click on the ""New project"" button located in the top right corner of the ""Projects"" page.
+
+2. On the ""Create new project"" page, click on the ""Create from template"" option located on the right side of the page.
+
+3. Scroll down the list of built-in templates until you find the ""Android"" template, and click on the ""Use template"" button next to it.
+
+4. In the ""Project name"" field, type ""web_agent_android"".
+
+5. Scroll down to the ""Visibility Level"" section and click on the ""Private"" option to set the project visibility as private.
+
+6. Click on the ""Create project"" button located at the bottom of the page.
+
+7. Wait for the project creation process to complete, and you will be redirected to the main page of the newly created ""web_agent_android"" repository.",753 @ 2024-01-14-04-26-12,753,Claude3,FALSE,TRUE,TRUE,FALSE,Claude3--False--True--True--False,"1. Click the purple create new button (which is an icon of a plus button), located in the purple banner on the top right of the page.
+2. Click “New project/repository” in the pop-up menu.
+3. Click “Create from template”.
+4. Scroll down to row which says it is an ""Android"" template.
+5. Click the blue “Use template” button, located at the right side of the page for the row containing the ""Android"" template.
+6. Click into the “Project name” text box, located directly under the bolded text “Project name”.
+7. Type in the desired project name, ""web_agent_android"".
+8. Select the ""Private"" visibility, located directly below the bolded text “Visibility Level”.
+9. Click the blue “Create project” button, located near the bottom of the page.",9,7,0.7142857142857143,0.7142857142857143,0.6666666666666666

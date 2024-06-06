@@ -1,0 +1,4 @@
+Mean spearman_corr: 0.057571560480147735
+Std spearman_corr: 0.567719324664298
+Mean kendall_corr: 0.04216682056017236
+Std kendall_corr: 0.4801280126910653
