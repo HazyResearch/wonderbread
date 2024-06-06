@@ -1,0 +1,885 @@
+*eval_output.csv
+*sop_cache/
+outputs/
+.DS_Store
+client_secrets.json
+.vscode
+credentials.json
+.env
+cache/
+settings.yaml
+data/demos/
+data/demos_backup/
+experiments/outputs/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+#   For a library or package, you might want to ignore these files since the code is
+#   intended to run in multiple environments; otherwise, check them in:
+# .python-version
+
+# pipenv
+#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
+#   However, in case of collaboration, if having platform-specific dependencies or dependencies
+#   having no cross-platform support, pipenv may install dependencies that don't work, or not
+#   install all needed dependencies.
+#Pipfile.lock
+
+# poetry
+#   Similar to Pipfile.lock, it is generally recommended to include poetry.lock in version control.
+#   This is especially recommended for binary packages to ensure reproducibility, and is more
+#   commonly ignored for libraries.
+#   https://python-poetry.org/docs/basic-usage/#commit-your-poetrylock-file-to-version-control
+#poetry.lock
+
+# pdm
+#   Similar to Pipfile.lock, it is generally recommended to include pdm.lock in version control.
+#pdm.lock
+#   pdm stores project-wide configurations in .pdm.toml, but it is recommended to not include it
+#   in version control.
+#   https://pdm.fming.dev/#use-with-ide
+.pdm.toml
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# PyCharm
+#  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
+#  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
+#  and can be added to the global gitignore or merged into this file.  For a more nuclear
+#  option (not recommended) you can uncomment the following to ignore the entire idea folder.
+#.idea/
+data/temp/21 @ 2024-01-05-02-16-47/SOP - 21 @ 2024-01-05-02-16-47.txt
+data/temp/21 @ 2024-01-05-02-16-47/screenshots/3.png
+data/temp/21 @ 2024-01-05-02-16-47/screenshots/2.png
+data/temp/21 @ 2024-01-05-02-16-47/screenshots/1.png
+data/temp/21 @ 2024-01-05-02-16-47/screenshots/0.png
+data/temp/21 @ 2024-01-05-02-16-47/\[raw\] 21 @ 2024-01-05-02-16-47.json
+data/temp/21 @ 2024-01-05-02-16-47/\[gt\] 21 @ 2024-01-05-02-16-47.json
+data/temp/21 @ 2024-01-05-02-16-47/21 @ 2024-01-05-02-16-47.mp4
+data/temp/21 @ 2024-01-05-02-16-47/21 @ 2024-01-05-02-16-47.json
+data/\[Test\] WebArena Tasks/~$Process Mining Task Demonstrations.xlsx
+data/\[Test\] WebArena Tasks/Process Mining Task Demonstrations.xlsx
+data/\[Test\] WebArena Tasks/Gold SOPs/42.txt
+data/\[Test\] WebArena Tasks/Gold SOPs/21.txt
+data/\[Test\] WebArena Tasks/Gold SOPs/14.txt
+data/\[Test\] WebArena Tasks/Gold SOPs/1.txt
+data/\[Test\] WebArena Tasks/919_gpt4_8k_cot/render_801.html
+data/\[Test\] WebArena Tasks/919_gpt4_8k_cot/render_787.html
+data/\[Test\] WebArena Tasks/919_gpt4_8k_cot/render_78.html
+data/\[Test\] WebArena Tasks/919_gpt4_8k_cot/render_710.html
+data/\[Test\] WebArena Tasks/919_gpt4_8k_cot/render_706.html
+data/\[Test\] WebArena Tasks/919_gpt4_8k_cot/render_699.html
+data/\[Test\] WebArena Tasks/919_gpt4_8k_cot/render_694.html
+data/\[Test\] WebArena Tasks/919_gpt4_8k_cot/render_547.html
+data/\[Test\] WebArena Tasks/919_gpt4_8k_cot/render_541.html
+data/\[Test\] WebArena Tasks/919_gpt4_8k_cot/render_536.html
+data/\[Test\] WebArena Tasks/919_gpt4_8k_cot/render_501.html
+data/\[Test\] WebArena Tasks/919_gpt4_8k_cot/render_489.html
+data/\[Test\] WebArena Tasks/919_gpt4_8k_cot/render_481.html
+data/\[Test\] WebArena Tasks/919_gpt4_8k_cot/render_460.html
+data/\[Test\] WebArena Tasks/919_gpt4_8k_cot/render_453.html
+data/\[Test\] WebArena Tasks/919_gpt4_8k_cot/render_449.html
+data/\[Test\] WebArena Tasks/919_gpt4_8k_cot/render_442.html
+data/\[Test\] WebArena Tasks/919_gpt4_8k_cot/render_422.html
+data/\[Test\] WebArena Tasks/919_gpt4_8k_cot/render_412.html
+data/\[Test\] WebArena Tasks/919_gpt4_8k_cot/render_396.html
+data/\[Test\] WebArena Tasks/919_gpt4_8k_cot/render_389.html
+data/\[Test\] WebArena Tasks/919_gpt4_8k_cot/render_357.html
+data/\[Test\] WebArena Tasks/919_gpt4_8k_cot/render_346.html
+data/\[Test\] WebArena Tasks/919_gpt4_8k_cot/render_259.html
+data/\[Test\] WebArena Tasks/919_gpt4_8k_cot/render_199.html
+data/\[Test\] WebArena Tasks/919_gpt4_8k_cot/render_173.html
+data/\[Test\] WebArena Tasks/919_gpt4_8k_cot/render_132.html
+data/\[Test\] WebArena Tasks/919_gpt4_8k_cot/render_12.html
+data/\[Test\] WebArena Tasks/919_gpt4_8k_cot/render_104.html
+data/\[Test\] WebArena Tasks/801 @ 2024-01-07-13-34-15/SOP - 801 @ 2024-01-07-13-34-15.txt
+data/\[Test\] WebArena Tasks/801 @ 2024-01-07-13-34-15/screenshots/9.png
+data/\[Test\] WebArena Tasks/801 @ 2024-01-07-13-34-15/screenshots/8.png
+data/\[Test\] WebArena Tasks/801 @ 2024-01-07-13-34-15/screenshots/7.png
+data/\[Test\] WebArena Tasks/801 @ 2024-01-07-13-34-15/screenshots/6.png
+data/\[Test\] WebArena Tasks/801 @ 2024-01-07-13-34-15/screenshots/5.png
+data/\[Test\] WebArena Tasks/801 @ 2024-01-07-13-34-15/screenshots/4.png
+data/\[Test\] WebArena Tasks/801 @ 2024-01-07-13-34-15/screenshots/3.png
+data/\[Test\] WebArena Tasks/801 @ 2024-01-07-13-34-15/screenshots/21.png
+data/\[Test\] WebArena Tasks/801 @ 2024-01-07-13-34-15/screenshots/20.png
+data/\[Test\] WebArena Tasks/801 @ 2024-01-07-13-34-15/screenshots/2.png
+data/\[Test\] WebArena Tasks/801 @ 2024-01-07-13-34-15/screenshots/19.png
+data/\[Test\] WebArena Tasks/801 @ 2024-01-07-13-34-15/screenshots/18.png
+data/\[Test\] WebArena Tasks/801 @ 2024-01-07-13-34-15/screenshots/17.png
+data/\[Test\] WebArena Tasks/801 @ 2024-01-07-13-34-15/screenshots/16.png
+data/\[Test\] WebArena Tasks/801 @ 2024-01-07-13-34-15/screenshots/15.png
+data/\[Test\] WebArena Tasks/801 @ 2024-01-07-13-34-15/screenshots/14.png
+data/\[Test\] WebArena Tasks/801 @ 2024-01-07-13-34-15/screenshots/13.png
+data/\[Test\] WebArena Tasks/801 @ 2024-01-07-13-34-15/screenshots/12.png
+data/\[Test\] WebArena Tasks/801 @ 2024-01-07-13-34-15/screenshots/11.png
+data/\[Test\] WebArena Tasks/801 @ 2024-01-07-13-34-15/screenshots/10.png
+data/\[Test\] WebArena Tasks/801 @ 2024-01-07-13-34-15/screenshots/1.png
+data/\[Test\] WebArena Tasks/801 @ 2024-01-07-13-34-15/screenshots/0.png
+data/\[Test\] WebArena Tasks/801 @ 2024-01-07-13-34-15/\[raw\] 801 @ 2024-01-07-13-34-15.json
+data/\[Test\] WebArena Tasks/801 @ 2024-01-07-13-34-15/\[gt\] 801 @ 2024-01-07-13-34-15.json
+data/\[Test\] WebArena Tasks/801 @ 2024-01-07-13-34-15/801 @ 2024-01-07-13-34-15.mp4
+data/\[Test\] WebArena Tasks/801 @ 2024-01-07-13-34-15/801 @ 2024-01-07-13-34-15.json
+data/\[Test\] WebArena Tasks/787 @ 2024-01-07-13-19-05/SOP - 787 @ 2024-01-07-13-19-05.txt
+data/\[Test\] WebArena Tasks/787 @ 2024-01-07-13-19-05/screenshots/3.png
+data/\[Test\] WebArena Tasks/787 @ 2024-01-07-13-19-05/screenshots/2.png
+data/\[Test\] WebArena Tasks/787 @ 2024-01-07-13-19-05/screenshots/1.png
+data/\[Test\] WebArena Tasks/787 @ 2024-01-07-13-19-05/screenshots/0.png
+data/\[Test\] WebArena Tasks/787 @ 2024-01-07-13-19-05/\[raw\] 787 @ 2024-01-07-13-19-05.json
+data/\[Test\] WebArena Tasks/787 @ 2024-01-07-13-19-05/\[gt\] 787 @ 2024-01-07-13-19-05.json
+data/\[Test\] WebArena Tasks/787 @ 2024-01-07-13-19-05/787 @ 2024-01-07-13-19-05.mp4
+data/\[Test\] WebArena Tasks/787 @ 2024-01-07-13-19-05/787 @ 2024-01-07-13-19-05.json
+data/\[Test\] WebArena Tasks/78 @ 2023-12-27-22-47-56/SOP - 78 @ 2023-12-27-22-47-56.txt
+data/\[Test\] WebArena Tasks/78 @ 2023-12-27-22-47-56/screenshots/5.png
+data/\[Test\] WebArena Tasks/78 @ 2023-12-27-22-47-56/screenshots/4.png
+data/\[Test\] WebArena Tasks/78 @ 2023-12-27-22-47-56/screenshots/3.png
+data/\[Test\] WebArena Tasks/78 @ 2023-12-27-22-47-56/screenshots/2.png
+data/\[Test\] WebArena Tasks/78 @ 2023-12-27-22-47-56/screenshots/1.png
+data/\[Test\] WebArena Tasks/78 @ 2023-12-27-22-47-56/screenshots/0.png
+data/\[Test\] WebArena Tasks/78 @ 2023-12-27-22-47-56/\[raw\] 78 @ 2023-12-27-22-47-56.json
+data/\[Test\] WebArena Tasks/78 @ 2023-12-27-22-47-56/\[gt\] 78 @ 2023-12-27-22-47-56.json
+data/\[Test\] WebArena Tasks/78 @ 2023-12-27-22-47-56/78 @ 2023-12-27-22-47-56.mp4
+data/\[Test\] WebArena Tasks/78 @ 2023-12-27-22-47-56/78 @ 2023-12-27-22-47-56.json
+data/\[Test\] WebArena Tasks/710 @ 2023-12-28-19-48-46/SOP - 710 @ 2023-12-28-19-48-46.txt
+data/\[Test\] WebArena Tasks/710 @ 2023-12-28-19-48-46/screenshots/7.png
+data/\[Test\] WebArena Tasks/710 @ 2023-12-28-19-48-46/screenshots/6.png
+data/\[Test\] WebArena Tasks/710 @ 2023-12-28-19-48-46/screenshots/5.png
+data/\[Test\] WebArena Tasks/710 @ 2023-12-28-19-48-46/screenshots/4.png
+data/\[Test\] WebArena Tasks/710 @ 2023-12-28-19-48-46/screenshots/3.png
+data/\[Test\] WebArena Tasks/710 @ 2023-12-28-19-48-46/screenshots/2.png
+data/\[Test\] WebArena Tasks/710 @ 2023-12-28-19-48-46/screenshots/1.png
+data/\[Test\] WebArena Tasks/710 @ 2023-12-28-19-48-46/screenshots/0.png
+data/\[Test\] WebArena Tasks/710 @ 2023-12-28-19-48-46/\[raw\] 710 @ 2023-12-28-19-48-46.json
+data/\[Test\] WebArena Tasks/710 @ 2023-12-28-19-48-46/\[gt\] 710 @ 2023-12-28-19-48-46.json
+data/\[Test\] WebArena Tasks/710 @ 2023-12-28-19-48-46/710 @ 2023-12-28-19-48-46.mp4
+data/\[Test\] WebArena Tasks/710 @ 2023-12-28-19-48-46/710 @ 2023-12-28-19-48-46.json
+data/\[Test\] WebArena Tasks/706 @ 2023-12-28-19-25-29/SOP - 706 @ 2023-12-28-19-25-29.txt
+data/\[Test\] WebArena Tasks/706 @ 2023-12-28-19-25-29/screenshots/7.png
+data/\[Test\] WebArena Tasks/706 @ 2023-12-28-19-25-29/screenshots/6.png
+data/\[Test\] WebArena Tasks/706 @ 2023-12-28-19-25-29/screenshots/5.png
+data/\[Test\] WebArena Tasks/706 @ 2023-12-28-19-25-29/screenshots/4.png
+data/\[Test\] WebArena Tasks/706 @ 2023-12-28-19-25-29/screenshots/3.png
+data/\[Test\] WebArena Tasks/706 @ 2023-12-28-19-25-29/screenshots/2.png
+data/\[Test\] WebArena Tasks/706 @ 2023-12-28-19-25-29/screenshots/1.png
+data/\[Test\] WebArena Tasks/706 @ 2023-12-28-19-25-29/screenshots/0.png
+data/\[Test\] WebArena Tasks/706 @ 2023-12-28-19-25-29/\[raw\] 706 @ 2023-12-28-19-25-29.json
+data/\[Test\] WebArena Tasks/706 @ 2023-12-28-19-25-29/\[gt\] 706 @ 2023-12-28-19-25-29.json
+data/\[Test\] WebArena Tasks/706 @ 2023-12-28-19-25-29/706 @ 2023-12-28-19-25-29.mp4
+data/\[Test\] WebArena Tasks/706 @ 2023-12-28-19-25-29/706 @ 2023-12-28-19-25-29.json
+data/\[Test\] WebArena Tasks/699 @ 2023-12-28-18-52-32/SOP - 699 @ 2023-12-28-18-52-32.txt
+data/\[Test\] WebArena Tasks/699 @ 2023-12-28-18-52-32/screenshots/9.png
+data/\[Test\] WebArena Tasks/699 @ 2023-12-28-18-52-32/screenshots/8.png
+data/\[Test\] WebArena Tasks/699 @ 2023-12-28-18-52-32/screenshots/7.png
+data/\[Test\] WebArena Tasks/699 @ 2023-12-28-18-52-32/screenshots/6.png
+data/\[Test\] WebArena Tasks/699 @ 2023-12-28-18-52-32/screenshots/5.png
+data/\[Test\] WebArena Tasks/699 @ 2023-12-28-18-52-32/screenshots/4.png
+data/\[Test\] WebArena Tasks/699 @ 2023-12-28-18-52-32/screenshots/3.png
+data/\[Test\] WebArena Tasks/699 @ 2023-12-28-18-52-32/screenshots/2.png
+data/\[Test\] WebArena Tasks/699 @ 2023-12-28-18-52-32/screenshots/14.png
+data/\[Test\] WebArena Tasks/699 @ 2023-12-28-18-52-32/screenshots/13.png
+data/\[Test\] WebArena Tasks/699 @ 2023-12-28-18-52-32/screenshots/12.png
+data/\[Test\] WebArena Tasks/699 @ 2023-12-28-18-52-32/screenshots/11.png
+data/\[Test\] WebArena Tasks/699 @ 2023-12-28-18-52-32/screenshots/10.png
+data/\[Test\] WebArena Tasks/699 @ 2023-12-28-18-52-32/screenshots/1.png
+data/\[Test\] WebArena Tasks/699 @ 2023-12-28-18-52-32/screenshots/0.png
+data/\[Test\] WebArena Tasks/699 @ 2023-12-28-18-52-32/\[raw\] 699 @ 2023-12-28-18-52-32.json
+data/\[Test\] WebArena Tasks/699 @ 2023-12-28-18-52-32/\[gt\] 699 @ 2023-12-28-18-52-32.json
+data/\[Test\] WebArena Tasks/699 @ 2023-12-28-18-52-32/699 @ 2023-12-28-18-52-32.mp4
+data/\[Test\] WebArena Tasks/699 @ 2023-12-28-18-52-32/699 @ 2023-12-28-18-52-32.json
+data/\[Test\] WebArena Tasks/694 @ 2023-12-28-16-50-31/SOP - 694 @ 2023-12-28-16-50-31.txt
+data/\[Test\] WebArena Tasks/694 @ 2023-12-28-16-50-31/screenshots/9.png
+data/\[Test\] WebArena Tasks/694 @ 2023-12-28-16-50-31/screenshots/8.png
+data/\[Test\] WebArena Tasks/694 @ 2023-12-28-16-50-31/screenshots/7.png
+data/\[Test\] WebArena Tasks/694 @ 2023-12-28-16-50-31/screenshots/6.png
+data/\[Test\] WebArena Tasks/694 @ 2023-12-28-16-50-31/screenshots/5.png
+data/\[Test\] WebArena Tasks/694 @ 2023-12-28-16-50-31/screenshots/4.png
+data/\[Test\] WebArena Tasks/694 @ 2023-12-28-16-50-31/screenshots/3.png
+data/\[Test\] WebArena Tasks/694 @ 2023-12-28-16-50-31/screenshots/21.png
+data/\[Test\] WebArena Tasks/694 @ 2023-12-28-16-50-31/screenshots/20.png
+data/\[Test\] WebArena Tasks/694 @ 2023-12-28-16-50-31/screenshots/2.png
+data/\[Test\] WebArena Tasks/694 @ 2023-12-28-16-50-31/screenshots/19.png
+data/\[Test\] WebArena Tasks/694 @ 2023-12-28-16-50-31/screenshots/18.png
+data/\[Test\] WebArena Tasks/694 @ 2023-12-28-16-50-31/screenshots/17.png
+data/\[Test\] WebArena Tasks/694 @ 2023-12-28-16-50-31/screenshots/16.png
+data/\[Test\] WebArena Tasks/694 @ 2023-12-28-16-50-31/screenshots/15.png
+data/\[Test\] WebArena Tasks/694 @ 2023-12-28-16-50-31/screenshots/14.png
+data/\[Test\] WebArena Tasks/694 @ 2023-12-28-16-50-31/screenshots/13.png
+data/\[Test\] WebArena Tasks/694 @ 2023-12-28-16-50-31/screenshots/12.png
+data/\[Test\] WebArena Tasks/694 @ 2023-12-28-16-50-31/screenshots/11.png
+data/\[Test\] WebArena Tasks/694 @ 2023-12-28-16-50-31/screenshots/10.png
+data/\[Test\] WebArena Tasks/694 @ 2023-12-28-16-50-31/screenshots/1.png
+data/\[Test\] WebArena Tasks/694 @ 2023-12-28-16-50-31/screenshots/0.png
+data/\[Test\] WebArena Tasks/694 @ 2023-12-28-16-50-31/\[raw\] 694 @ 2023-12-28-16-50-31.json
+data/\[Test\] WebArena Tasks/694 @ 2023-12-28-16-50-31/\[gt\] 694 @ 2023-12-28-16-50-31.json
+data/\[Test\] WebArena Tasks/694 @ 2023-12-28-16-50-31/694 @ 2023-12-28-16-50-31.mp4
+data/\[Test\] WebArena Tasks/694 @ 2023-12-28-16-50-31/694 @ 2023-12-28-16-50-31.json
+data/\[Test\] WebArena Tasks/547 @ 2023-12-28-14-24-32/SOP - 547 @ 2023-12-28-14-24-32.txt
+data/\[Test\] WebArena Tasks/547 @ 2023-12-28-14-24-32/screenshots/9.png
+data/\[Test\] WebArena Tasks/547 @ 2023-12-28-14-24-32/screenshots/8.png
+data/\[Test\] WebArena Tasks/547 @ 2023-12-28-14-24-32/screenshots/7.png
+data/\[Test\] WebArena Tasks/547 @ 2023-12-28-14-24-32/screenshots/6.png
+data/\[Test\] WebArena Tasks/547 @ 2023-12-28-14-24-32/screenshots/5.png
+data/\[Test\] WebArena Tasks/547 @ 2023-12-28-14-24-32/screenshots/4.png
+data/\[Test\] WebArena Tasks/547 @ 2023-12-28-14-24-32/screenshots/3.png
+data/\[Test\] WebArena Tasks/547 @ 2023-12-28-14-24-32/screenshots/2.png
+data/\[Test\] WebArena Tasks/547 @ 2023-12-28-14-24-32/screenshots/16.png
+data/\[Test\] WebArena Tasks/547 @ 2023-12-28-14-24-32/screenshots/15.png
+data/\[Test\] WebArena Tasks/547 @ 2023-12-28-14-24-32/screenshots/14.png
+data/\[Test\] WebArena Tasks/547 @ 2023-12-28-14-24-32/screenshots/13.png
+data/\[Test\] WebArena Tasks/547 @ 2023-12-28-14-24-32/screenshots/12.png
+data/\[Test\] WebArena Tasks/547 @ 2023-12-28-14-24-32/screenshots/11.png
+data/\[Test\] WebArena Tasks/547 @ 2023-12-28-14-24-32/screenshots/10.png
+data/\[Test\] WebArena Tasks/547 @ 2023-12-28-14-24-32/screenshots/1.png
+data/\[Test\] WebArena Tasks/547 @ 2023-12-28-14-24-32/screenshots/0.png
+data/\[Test\] WebArena Tasks/547 @ 2023-12-28-14-24-32/\[raw\] 547 @ 2023-12-28-14-24-32.json
+data/\[Test\] WebArena Tasks/547 @ 2023-12-28-14-24-32/\[gt\] 547 @ 2023-12-28-14-24-32.json
+data/\[Test\] WebArena Tasks/547 @ 2023-12-28-14-24-32/547 @ 2023-12-28-14-24-32.mp4
+data/\[Test\] WebArena Tasks/547 @ 2023-12-28-14-24-32/547 @ 2023-12-28-14-24-32.json
+data/\[Test\] WebArena Tasks/541 @ 2023-12-28-11-28-39/SOP - 541 @ 2023-12-28-11-28-39.txt
+data/\[Test\] WebArena Tasks/541 @ 2023-12-28-11-28-39/screenshots/9.png
+data/\[Test\] WebArena Tasks/541 @ 2023-12-28-11-28-39/screenshots/8.png
+data/\[Test\] WebArena Tasks/541 @ 2023-12-28-11-28-39/screenshots/7.png
+data/\[Test\] WebArena Tasks/541 @ 2023-12-28-11-28-39/screenshots/6.png
+data/\[Test\] WebArena Tasks/541 @ 2023-12-28-11-28-39/screenshots/5.png
+data/\[Test\] WebArena Tasks/541 @ 2023-12-28-11-28-39/screenshots/4.png
+data/\[Test\] WebArena Tasks/541 @ 2023-12-28-11-28-39/screenshots/3.png
+data/\[Test\] WebArena Tasks/541 @ 2023-12-28-11-28-39/screenshots/22.png
+data/\[Test\] WebArena Tasks/541 @ 2023-12-28-11-28-39/screenshots/21.png
+data/\[Test\] WebArena Tasks/541 @ 2023-12-28-11-28-39/screenshots/20.png
+data/\[Test\] WebArena Tasks/541 @ 2023-12-28-11-28-39/screenshots/2.png
+data/\[Test\] WebArena Tasks/541 @ 2023-12-28-11-28-39/screenshots/19.png
+data/\[Test\] WebArena Tasks/541 @ 2023-12-28-11-28-39/screenshots/18.png
+data/\[Test\] WebArena Tasks/541 @ 2023-12-28-11-28-39/screenshots/17.png
+data/\[Test\] WebArena Tasks/541 @ 2023-12-28-11-28-39/screenshots/16.png
+data/\[Test\] WebArena Tasks/541 @ 2023-12-28-11-28-39/screenshots/15.png
+data/\[Test\] WebArena Tasks/541 @ 2023-12-28-11-28-39/screenshots/14.png
+data/\[Test\] WebArena Tasks/541 @ 2023-12-28-11-28-39/screenshots/13.png
+data/\[Test\] WebArena Tasks/541 @ 2023-12-28-11-28-39/screenshots/12.png
+data/\[Test\] WebArena Tasks/541 @ 2023-12-28-11-28-39/screenshots/11.png
+data/\[Test\] WebArena Tasks/541 @ 2023-12-28-11-28-39/screenshots/10.png
+data/\[Test\] WebArena Tasks/541 @ 2023-12-28-11-28-39/screenshots/1.png
+data/\[Test\] WebArena Tasks/541 @ 2023-12-28-11-28-39/screenshots/0.png
+data/\[Test\] WebArena Tasks/541 @ 2023-12-28-11-28-39/\[raw\] 541 @ 2023-12-28-11-28-39.json
+data/\[Test\] WebArena Tasks/541 @ 2023-12-28-11-28-39/\[gt\] 541 @ 2023-12-28-11-28-39.json
+data/\[Test\] WebArena Tasks/541 @ 2023-12-28-11-28-39/541 @ 2023-12-28-11-28-39.mp4
+data/\[Test\] WebArena Tasks/541 @ 2023-12-28-11-28-39/541 @ 2023-12-28-11-28-39.json
+data/\[Test\] WebArena Tasks/536 @ 2023-12-25-08-53-32/SOP - 536 @ 2023-12-25-08-53-32.txt
+data/\[Test\] WebArena Tasks/536 @ 2023-12-25-08-53-32/screenshots/9.png
+data/\[Test\] WebArena Tasks/536 @ 2023-12-25-08-53-32/screenshots/8.png
+data/\[Test\] WebArena Tasks/536 @ 2023-12-25-08-53-32/screenshots/7.png
+data/\[Test\] WebArena Tasks/536 @ 2023-12-25-08-53-32/screenshots/6.png
+data/\[Test\] WebArena Tasks/536 @ 2023-12-25-08-53-32/screenshots/5.png
+data/\[Test\] WebArena Tasks/536 @ 2023-12-25-08-53-32/screenshots/4.png
+data/\[Test\] WebArena Tasks/536 @ 2023-12-25-08-53-32/screenshots/3.png
+data/\[Test\] WebArena Tasks/536 @ 2023-12-25-08-53-32/screenshots/2.png
+data/\[Test\] WebArena Tasks/536 @ 2023-12-25-08-53-32/screenshots/12.png
+data/\[Test\] WebArena Tasks/536 @ 2023-12-25-08-53-32/screenshots/11.png
+data/\[Test\] WebArena Tasks/536 @ 2023-12-25-08-53-32/screenshots/10.png
+data/\[Test\] WebArena Tasks/536 @ 2023-12-25-08-53-32/screenshots/1.png
+data/\[Test\] WebArena Tasks/536 @ 2023-12-25-08-53-32/screenshots/0.png
+data/\[Test\] WebArena Tasks/536 @ 2023-12-25-08-53-32/\[raw\] 536 @ 2023-12-25-08-53-32.json
+data/\[Test\] WebArena Tasks/536 @ 2023-12-25-08-53-32/\[gt\] 536 @ 2023-12-25-08-53-32.json
+data/\[Test\] WebArena Tasks/536 @ 2023-12-25-08-53-32/536 @ 2023-12-25-08-53-32.mp4
+data/\[Test\] WebArena Tasks/536 @ 2023-12-25-08-53-32/536 @ 2023-12-25-08-53-32.json
+data/\[Test\] WebArena Tasks/501 @ 2023-12-28-10-57-22/SOP - 501 @ 2023-12-28-10-57-22.txt
+data/\[Test\] WebArena Tasks/501 @ 2023-12-28-10-57-22/screenshots/9.png
+data/\[Test\] WebArena Tasks/501 @ 2023-12-28-10-57-22/screenshots/8.png
+data/\[Test\] WebArena Tasks/501 @ 2023-12-28-10-57-22/screenshots/7.png
+data/\[Test\] WebArena Tasks/501 @ 2023-12-28-10-57-22/screenshots/6.png
+data/\[Test\] WebArena Tasks/501 @ 2023-12-28-10-57-22/screenshots/5.png
+data/\[Test\] WebArena Tasks/501 @ 2023-12-28-10-57-22/screenshots/4.png
+data/\[Test\] WebArena Tasks/501 @ 2023-12-28-10-57-22/screenshots/3.png
+data/\[Test\] WebArena Tasks/501 @ 2023-12-28-10-57-22/screenshots/2.png
+data/\[Test\] WebArena Tasks/501 @ 2023-12-28-10-57-22/screenshots/10.png
+data/\[Test\] WebArena Tasks/501 @ 2023-12-28-10-57-22/screenshots/1.png
+data/\[Test\] WebArena Tasks/501 @ 2023-12-28-10-57-22/screenshots/0.png
+data/\[Test\] WebArena Tasks/501 @ 2023-12-28-10-57-22/\[raw\] 501 @ 2023-12-28-10-57-22.json
+data/\[Test\] WebArena Tasks/501 @ 2023-12-28-10-57-22/\[gt\] 501 @ 2023-12-28-10-57-22.json
+data/\[Test\] WebArena Tasks/501 @ 2023-12-28-10-57-22/501 @ 2023-12-28-10-57-22.mp4
+data/\[Test\] WebArena Tasks/501 @ 2023-12-28-10-57-22/501 @ 2023-12-28-10-57-22.json
+data/\[Test\] WebArena Tasks/489 @ 2023-12-28-10-38-09/SOP - 489 @ 2023-12-28-10-38-09.txt
+data/\[Test\] WebArena Tasks/489 @ 2023-12-28-10-38-09/screenshots/9.png
+data/\[Test\] WebArena Tasks/489 @ 2023-12-28-10-38-09/screenshots/8.png
+data/\[Test\] WebArena Tasks/489 @ 2023-12-28-10-38-09/screenshots/7.png
+data/\[Test\] WebArena Tasks/489 @ 2023-12-28-10-38-09/screenshots/6.png
+data/\[Test\] WebArena Tasks/489 @ 2023-12-28-10-38-09/screenshots/5.png
+data/\[Test\] WebArena Tasks/489 @ 2023-12-28-10-38-09/screenshots/4.png
+data/\[Test\] WebArena Tasks/489 @ 2023-12-28-10-38-09/screenshots/3.png
+data/\[Test\] WebArena Tasks/489 @ 2023-12-28-10-38-09/screenshots/2.png
+data/\[Test\] WebArena Tasks/489 @ 2023-12-28-10-38-09/screenshots/1.png
+data/\[Test\] WebArena Tasks/489 @ 2023-12-28-10-38-09/screenshots/0.png
+data/\[Test\] WebArena Tasks/489 @ 2023-12-28-10-38-09/\[raw\] 489 @ 2023-12-28-10-38-09.json
+data/\[Test\] WebArena Tasks/489 @ 2023-12-28-10-38-09/\[gt\] 489 @ 2023-12-28-10-38-09.json
+data/\[Test\] WebArena Tasks/489 @ 2023-12-28-10-38-09/489 @ 2023-12-28-10-38-09.mp4
+data/\[Test\] WebArena Tasks/489 @ 2023-12-28-10-38-09/489 @ 2023-12-28-10-38-09.json
+data/\[Test\] WebArena Tasks/481 @ 2023-12-26-09-22-47/SOP - 481 @ 2023-12-26-09-22-47.txt
+data/\[Test\] WebArena Tasks/481 @ 2023-12-26-09-22-47/screenshots/9.png
+data/\[Test\] WebArena Tasks/481 @ 2023-12-26-09-22-47/screenshots/8.png
+data/\[Test\] WebArena Tasks/481 @ 2023-12-26-09-22-47/screenshots/7.png
+data/\[Test\] WebArena Tasks/481 @ 2023-12-26-09-22-47/screenshots/6.png
+data/\[Test\] WebArena Tasks/481 @ 2023-12-26-09-22-47/screenshots/5.png
+data/\[Test\] WebArena Tasks/481 @ 2023-12-26-09-22-47/screenshots/4.png
+data/\[Test\] WebArena Tasks/481 @ 2023-12-26-09-22-47/screenshots/3.png
+data/\[Test\] WebArena Tasks/481 @ 2023-12-26-09-22-47/screenshots/2.png
+data/\[Test\] WebArena Tasks/481 @ 2023-12-26-09-22-47/screenshots/1.png
+data/\[Test\] WebArena Tasks/481 @ 2023-12-26-09-22-47/screenshots/0.png
+data/\[Test\] WebArena Tasks/481 @ 2023-12-26-09-22-47/\[raw\] 481 @ 2023-12-26-09-22-47.json
+data/\[Test\] WebArena Tasks/481 @ 2023-12-26-09-22-47/\[gt\] 481 @ 2023-12-26-09-22-47.json
+data/\[Test\] WebArena Tasks/481 @ 2023-12-26-09-22-47/481 @ 2023-12-26-09-22-47.mp4
+data/\[Test\] WebArena Tasks/481 @ 2023-12-26-09-22-47/481 @ 2023-12-26-09-22-47.json
+data/\[Test\] WebArena Tasks/471 @ 2023-12-28-10-19-56/SOP - 471 @ 2023-12-28-10-19-56.txt
+data/\[Test\] WebArena Tasks/471 @ 2023-12-28-10-19-56/screenshots/8.png
+data/\[Test\] WebArena Tasks/471 @ 2023-12-28-10-19-56/screenshots/7.png
+data/\[Test\] WebArena Tasks/471 @ 2023-12-28-10-19-56/screenshots/6.png
+data/\[Test\] WebArena Tasks/471 @ 2023-12-28-10-19-56/screenshots/5.png
+data/\[Test\] WebArena Tasks/471 @ 2023-12-28-10-19-56/screenshots/4.png
+data/\[Test\] WebArena Tasks/471 @ 2023-12-28-10-19-56/screenshots/3.png
+data/\[Test\] WebArena Tasks/471 @ 2023-12-28-10-19-56/screenshots/2.png
+data/\[Test\] WebArena Tasks/471 @ 2023-12-28-10-19-56/screenshots/1.png
+data/\[Test\] WebArena Tasks/471 @ 2023-12-28-10-19-56/screenshots/0.png
+data/\[Test\] WebArena Tasks/471 @ 2023-12-28-10-19-56/\[raw\] 471 @ 2023-12-28-10-19-56.json
+data/\[Test\] WebArena Tasks/471 @ 2023-12-28-10-19-56/\[gt\] 471 @ 2023-12-28-10-19-56.json
+data/\[Test\] WebArena Tasks/471 @ 2023-12-28-10-19-56/471 @ 2023-12-28-10-19-56.mp4
+data/\[Test\] WebArena Tasks/471 @ 2023-12-28-10-19-56/471 @ 2023-12-28-10-19-56.json
+data/\[Test\] WebArena Tasks/460 @ 2023-12-28-09-46-48/SOP - 460 @ 2023-12-28-09-46-48.txt
+data/\[Test\] WebArena Tasks/460 @ 2023-12-28-09-46-48/screenshots/5.png
+data/\[Test\] WebArena Tasks/460 @ 2023-12-28-09-46-48/screenshots/4.png
+data/\[Test\] WebArena Tasks/460 @ 2023-12-28-09-46-48/screenshots/3.png
+data/\[Test\] WebArena Tasks/460 @ 2023-12-28-09-46-48/screenshots/2.png
+data/\[Test\] WebArena Tasks/460 @ 2023-12-28-09-46-48/screenshots/1.png
+data/\[Test\] WebArena Tasks/460 @ 2023-12-28-09-46-48/screenshots/0.png
+data/\[Test\] WebArena Tasks/460 @ 2023-12-28-09-46-48/\[raw\] 460 @ 2023-12-28-09-46-48.json
+data/\[Test\] WebArena Tasks/460 @ 2023-12-28-09-46-48/\[gt\] 460 @ 2023-12-28-09-46-48.json
+data/\[Test\] WebArena Tasks/460 @ 2023-12-28-09-46-48/460 @ 2023-12-28-09-46-48.mp4
+data/\[Test\] WebArena Tasks/460 @ 2023-12-28-09-46-48/460 @ 2023-12-28-09-46-48.json
+data/\[Test\] WebArena Tasks/453 @ 2023-12-28-08-51-14/SOP - 453 @ 2023-12-28-08-51-14.txt
+data/\[Test\] WebArena Tasks/453 @ 2023-12-28-08-51-14/screenshots/8.png
+data/\[Test\] WebArena Tasks/453 @ 2023-12-28-08-51-14/screenshots/7.png
+data/\[Test\] WebArena Tasks/453 @ 2023-12-28-08-51-14/screenshots/6.png
+data/\[Test\] WebArena Tasks/453 @ 2023-12-28-08-51-14/screenshots/5.png
+data/\[Test\] WebArena Tasks/453 @ 2023-12-28-08-51-14/screenshots/4.png
+data/\[Test\] WebArena Tasks/453 @ 2023-12-28-08-51-14/screenshots/3.png
+data/\[Test\] WebArena Tasks/453 @ 2023-12-28-08-51-14/screenshots/2.png
+data/\[Test\] WebArena Tasks/453 @ 2023-12-28-08-51-14/screenshots/1.png
+data/\[Test\] WebArena Tasks/453 @ 2023-12-28-08-51-14/screenshots/0.png
+data/\[Test\] WebArena Tasks/453 @ 2023-12-28-08-51-14/\[raw\] 453 @ 2023-12-28-08-51-14.json
+data/\[Test\] WebArena Tasks/453 @ 2023-12-28-08-51-14/\[gt\] 453 @ 2023-12-28-08-51-14.json
+data/\[Test\] WebArena Tasks/453 @ 2023-12-28-08-51-14/453 @ 2023-12-28-08-51-14.mp4
+data/\[Test\] WebArena Tasks/453 @ 2023-12-28-08-51-14/453 @ 2023-12-28-08-51-14.json
+data/\[Test\] WebArena Tasks/449 @ 2023-12-25-13-15-26/SOP - 449 @ 2023-12-25-13-15-26.txt
+data/\[Test\] WebArena Tasks/449 @ 2023-12-25-13-15-26/screenshots/7.png
+data/\[Test\] WebArena Tasks/449 @ 2023-12-25-13-15-26/screenshots/6.png
+data/\[Test\] WebArena Tasks/449 @ 2023-12-25-13-15-26/screenshots/5.png
+data/\[Test\] WebArena Tasks/449 @ 2023-12-25-13-15-26/screenshots/4.png
+data/\[Test\] WebArena Tasks/449 @ 2023-12-25-13-15-26/screenshots/3.png
+data/\[Test\] WebArena Tasks/449 @ 2023-12-25-13-15-26/screenshots/2.png
+data/\[Test\] WebArena Tasks/449 @ 2023-12-25-13-15-26/screenshots/1.png
+data/\[Test\] WebArena Tasks/449 @ 2023-12-25-13-15-26/screenshots/0.png
+data/\[Test\] WebArena Tasks/449 @ 2023-12-25-13-15-26/\[raw\] 449 @ 2023-12-25-13-15-26.json
+data/\[Test\] WebArena Tasks/449 @ 2023-12-25-13-15-26/\[gt\] 449 @ 2023-12-25-13-15-26.json
+data/\[Test\] WebArena Tasks/449 @ 2023-12-25-13-15-26/449 @ 2023-12-25-13-15-26.mp4
+data/\[Test\] WebArena Tasks/449 @ 2023-12-25-13-15-26/449 @ 2023-12-25-13-15-26.json
+data/\[Test\] WebArena Tasks/442 @ 2023-12-25-12-41-40/SOP - 442 @ 2023-12-25-12-41-40.txt
+data/\[Test\] WebArena Tasks/442 @ 2023-12-25-12-41-40/screenshots/6.png
+data/\[Test\] WebArena Tasks/442 @ 2023-12-25-12-41-40/screenshots/5.png
+data/\[Test\] WebArena Tasks/442 @ 2023-12-25-12-41-40/screenshots/4.png
+data/\[Test\] WebArena Tasks/442 @ 2023-12-25-12-41-40/screenshots/3.png
+data/\[Test\] WebArena Tasks/442 @ 2023-12-25-12-41-40/screenshots/2.png
+data/\[Test\] WebArena Tasks/442 @ 2023-12-25-12-41-40/screenshots/1.png
+data/\[Test\] WebArena Tasks/442 @ 2023-12-25-12-41-40/screenshots/0.png
+data/\[Test\] WebArena Tasks/442 @ 2023-12-25-12-41-40/\[raw\] 442 @ 2023-12-25-12-41-40.json
+data/\[Test\] WebArena Tasks/442 @ 2023-12-25-12-41-40/\[gt\] 442 @ 2023-12-25-12-41-40.json
+data/\[Test\] WebArena Tasks/442 @ 2023-12-25-12-41-40/442 @ 2023-12-25-12-41-40.mp4
+data/\[Test\] WebArena Tasks/442 @ 2023-12-25-12-41-40/442 @ 2023-12-25-12-41-40.json
+data/\[Test\] WebArena Tasks/422 @ 2023-12-25-12-33-35/SOP - 422 @ 2023-12-25-12-33-35.txt
+data/\[Test\] WebArena Tasks/422 @ 2023-12-25-12-33-35/screenshots/5.png
+data/\[Test\] WebArena Tasks/422 @ 2023-12-25-12-33-35/screenshots/4.png
+data/\[Test\] WebArena Tasks/422 @ 2023-12-25-12-33-35/screenshots/3.png
+data/\[Test\] WebArena Tasks/422 @ 2023-12-25-12-33-35/screenshots/2.png
+data/\[Test\] WebArena Tasks/422 @ 2023-12-25-12-33-35/screenshots/1.png
+data/\[Test\] WebArena Tasks/422 @ 2023-12-25-12-33-35/screenshots/0.png
+data/\[Test\] WebArena Tasks/422 @ 2023-12-25-12-33-35/\[raw\] 422 @ 2023-12-25-12-33-35.json
+data/\[Test\] WebArena Tasks/422 @ 2023-12-25-12-33-35/\[gt\] 422 @ 2023-12-25-12-33-35.json
+data/\[Test\] WebArena Tasks/422 @ 2023-12-25-12-33-35/422 @ 2023-12-25-12-33-35.mp4
+data/\[Test\] WebArena Tasks/422 @ 2023-12-25-12-33-35/422 @ 2023-12-25-12-33-35.json
+data/\[Test\] WebArena Tasks/42 @ 2024-01-13-05-03-47/SOP - 42 @ 2024-01-13-05-03-47.txt
+data/\[Test\] WebArena Tasks/42 @ 2024-01-13-05-03-47/screenshots/8.png
+data/\[Test\] WebArena Tasks/42 @ 2024-01-13-05-03-47/screenshots/7.png
+data/\[Test\] WebArena Tasks/42 @ 2024-01-13-05-03-47/screenshots/6.png
+data/\[Test\] WebArena Tasks/42 @ 2024-01-13-05-03-47/screenshots/5.png
+data/\[Test\] WebArena Tasks/42 @ 2024-01-13-05-03-47/screenshots/4.png
+data/\[Test\] WebArena Tasks/42 @ 2024-01-13-05-03-47/screenshots/3.png
+data/\[Test\] WebArena Tasks/42 @ 2024-01-13-05-03-47/screenshots/2.png
+data/\[Test\] WebArena Tasks/42 @ 2024-01-13-05-03-47/screenshots/1.png
+data/\[Test\] WebArena Tasks/42 @ 2024-01-13-05-03-47/screenshots/0.png
+data/\[Test\] WebArena Tasks/42 @ 2024-01-13-05-03-47/\[raw\] SOP - 42 @ 2024-01-13-05-03-47.txt
+data/\[Test\] WebArena Tasks/42 @ 2024-01-13-05-03-47/\[raw\] 42 @ 2024-01-13-05-03-47.json
+data/\[Test\] WebArena Tasks/42 @ 2024-01-13-05-03-47/42 @ 2024-01-13-05-03-47.mp4
+data/\[Test\] WebArena Tasks/42 @ 2024-01-13-05-03-47/42 @ 2024-01-13-05-03-47.json
+data/\[Test\] WebArena Tasks/42 @ 2024-01-08-17-43-43/SOP - 42 @ 2024-01-08-17-43-43.txt
+data/\[Test\] WebArena Tasks/42 @ 2024-01-08-17-43-43/screenshots/3.png
+data/\[Test\] WebArena Tasks/42 @ 2024-01-08-17-43-43/screenshots/2.png
+data/\[Test\] WebArena Tasks/42 @ 2024-01-08-17-43-43/screenshots/1.png
+data/\[Test\] WebArena Tasks/42 @ 2024-01-08-17-43-43/screenshots/0.png
+data/\[Test\] WebArena Tasks/42 @ 2024-01-08-17-43-43/\[raw\] 42 @ 2024-01-08-17-43-43.json
+data/\[Test\] WebArena Tasks/42 @ 2024-01-08-17-43-43/\[gt\] 42 @ 2024-01-08-17-43-43.json
+data/\[Test\] WebArena Tasks/42 @ 2024-01-08-17-43-43/42 @ 2024-01-08-17-43-43.mp4
+data/\[Test\] WebArena Tasks/42 @ 2024-01-08-17-43-43/42 @ 2024-01-08-17-43-43.json
+data/\[Test\] WebArena Tasks/42 @ 2024-01-05-03-58-03/SOP - 42 @ 2024-01-05-03-58-03.txt
+data/\[Test\] WebArena Tasks/42 @ 2024-01-05-03-58-03/screenshots/1.png
+data/\[Test\] WebArena Tasks/42 @ 2024-01-05-03-58-03/screenshots/0.png
+data/\[Test\] WebArena Tasks/42 @ 2024-01-05-03-58-03/\[raw\] 42 @ 2024-01-05-03-58-03.json
+data/\[Test\] WebArena Tasks/42 @ 2024-01-05-03-58-03/\[gt\] 42 @ 2024-01-05-03-58-03.json
+data/\[Test\] WebArena Tasks/42 @ 2024-01-05-03-58-03/42 @ 2024-01-05-03-58-03.mp4
+data/\[Test\] WebArena Tasks/42 @ 2024-01-05-03-58-03/42 @ 2024-01-05-03-58-03.json
+data/\[Test\] WebArena Tasks/42 @ 2023-12-27-13-30-23/SOP - 42 @ 2023-12-27-13-30-23.txt
+data/\[Test\] WebArena Tasks/42 @ 2023-12-27-13-30-23/screenshots/1.png
+data/\[Test\] WebArena Tasks/42 @ 2023-12-27-13-30-23/screenshots/0.png
+data/\[Test\] WebArena Tasks/42 @ 2023-12-27-13-30-23/\[raw\] 42 @ 2023-12-27-13-30-23.json
+data/\[Test\] WebArena Tasks/42 @ 2023-12-27-13-30-23/42 @ 2023-12-27-13-30-23.mp4
+data/\[Test\] WebArena Tasks/42 @ 2023-12-27-13-30-23/42 @ 2023-12-27-13-30-23.json
+data/\[Test\] WebArena Tasks/42 @ 2023-12-25-18-00-18/SOP - 42 @ 2023-12-25-18-00-18.txt
+data/\[Test\] WebArena Tasks/42 @ 2023-12-25-18-00-18/screenshots/4.png
+data/\[Test\] WebArena Tasks/42 @ 2023-12-25-18-00-18/screenshots/3.png
+data/\[Test\] WebArena Tasks/42 @ 2023-12-25-18-00-18/screenshots/2.png
+data/\[Test\] WebArena Tasks/42 @ 2023-12-25-18-00-18/screenshots/1.png
+data/\[Test\] WebArena Tasks/42 @ 2023-12-25-18-00-18/screenshots/0.png
+data/\[Test\] WebArena Tasks/42 @ 2023-12-25-18-00-18/\[raw\] 42 @ 2023-12-25-18-00-18.json
+data/\[Test\] WebArena Tasks/42 @ 2023-12-25-18-00-18/\[gt\] 42 @ 2023-12-25-18-00-18.json
+data/\[Test\] WebArena Tasks/42 @ 2023-12-25-18-00-18/42 @ 2023-12-25-18-00-18.mp4
+data/\[Test\] WebArena Tasks/42 @ 2023-12-25-18-00-18/42 @ 2023-12-25-18-00-18.json
+data/\[Test\] WebArena Tasks/412 @ 2023-12-25-10-32-50/SOP - 412 @ 2023-12-25-10-32-50.txt
+data/\[Test\] WebArena Tasks/412 @ 2023-12-25-10-32-50/screenshots/9.png
+data/\[Test\] WebArena Tasks/412 @ 2023-12-25-10-32-50/screenshots/8.png
+data/\[Test\] WebArena Tasks/412 @ 2023-12-25-10-32-50/screenshots/7.png
+data/\[Test\] WebArena Tasks/412 @ 2023-12-25-10-32-50/screenshots/6.png
+data/\[Test\] WebArena Tasks/412 @ 2023-12-25-10-32-50/screenshots/5.png
+data/\[Test\] WebArena Tasks/412 @ 2023-12-25-10-32-50/screenshots/4.png
+data/\[Test\] WebArena Tasks/412 @ 2023-12-25-10-32-50/screenshots/3.png
+data/\[Test\] WebArena Tasks/412 @ 2023-12-25-10-32-50/screenshots/2.png
+data/\[Test\] WebArena Tasks/412 @ 2023-12-25-10-32-50/screenshots/12.png
+data/\[Test\] WebArena Tasks/412 @ 2023-12-25-10-32-50/screenshots/11.png
+data/\[Test\] WebArena Tasks/412 @ 2023-12-25-10-32-50/screenshots/10.png
+data/\[Test\] WebArena Tasks/412 @ 2023-12-25-10-32-50/screenshots/1.png
+data/\[Test\] WebArena Tasks/412 @ 2023-12-25-10-32-50/screenshots/0.png
+data/\[Test\] WebArena Tasks/412 @ 2023-12-25-10-32-50/\[raw\] 412 @ 2023-12-25-10-32-50.json
+data/\[Test\] WebArena Tasks/412 @ 2023-12-25-10-32-50/\[gt\] 412 @ 2023-12-25-10-32-50.json
+data/\[Test\] WebArena Tasks/412 @ 2023-12-25-10-32-50/412 @ 2023-12-25-10-32-50.mp4
+data/\[Test\] WebArena Tasks/412 @ 2023-12-25-10-32-50/412 @ 2023-12-25-10-32-50.json
+data/\[Test\] WebArena Tasks/396 @ 2023-12-30-18-22-05/SOP - 396 @ 2023-12-30-18-22-05.txt
+data/\[Test\] WebArena Tasks/396 @ 2023-12-30-18-22-05/screenshots/8.png
+data/\[Test\] WebArena Tasks/396 @ 2023-12-30-18-22-05/screenshots/7.png
+data/\[Test\] WebArena Tasks/396 @ 2023-12-30-18-22-05/screenshots/6.png
+data/\[Test\] WebArena Tasks/396 @ 2023-12-30-18-22-05/screenshots/5.png
+data/\[Test\] WebArena Tasks/396 @ 2023-12-30-18-22-05/screenshots/4.png
+data/\[Test\] WebArena Tasks/396 @ 2023-12-30-18-22-05/screenshots/3.png
+data/\[Test\] WebArena Tasks/396 @ 2023-12-30-18-22-05/screenshots/2.png
+data/\[Test\] WebArena Tasks/396 @ 2023-12-30-18-22-05/screenshots/1.png
+data/\[Test\] WebArena Tasks/396 @ 2023-12-30-18-22-05/screenshots/0.png
+data/\[Test\] WebArena Tasks/396 @ 2023-12-30-18-22-05/\[raw\] 396 @ 2023-12-30-18-22-05.json
+data/\[Test\] WebArena Tasks/396 @ 2023-12-30-18-22-05/\[gt\] 396 @ 2023-12-30-18-22-05.json
+data/\[Test\] WebArena Tasks/396 @ 2023-12-30-18-22-05/396 @ 2023-12-30-18-22-05.mp4
+data/\[Test\] WebArena Tasks/396 @ 2023-12-30-18-22-05/396 @ 2023-12-30-18-22-05.json
+data/\[Test\] WebArena Tasks/389 @ 2023-12-30-17-26-06/SOP - 389 @ 2023-12-30-17-26-06.txt
+data/\[Test\] WebArena Tasks/389 @ 2023-12-30-17-26-06/screenshots/7.png
+data/\[Test\] WebArena Tasks/389 @ 2023-12-30-17-26-06/screenshots/6.png
+data/\[Test\] WebArena Tasks/389 @ 2023-12-30-17-26-06/screenshots/5.png
+data/\[Test\] WebArena Tasks/389 @ 2023-12-30-17-26-06/screenshots/4.png
+data/\[Test\] WebArena Tasks/389 @ 2023-12-30-17-26-06/screenshots/3.png
+data/\[Test\] WebArena Tasks/389 @ 2023-12-30-17-26-06/screenshots/2.png
+data/\[Test\] WebArena Tasks/389 @ 2023-12-30-17-26-06/screenshots/1.png
+data/\[Test\] WebArena Tasks/389 @ 2023-12-30-17-26-06/screenshots/0.png
+data/\[Test\] WebArena Tasks/389 @ 2023-12-30-17-26-06/\[raw\] 389 @ 2023-12-30-17-26-06.json
+data/\[Test\] WebArena Tasks/389 @ 2023-12-30-17-26-06/\[gt\] 389 @ 2023-12-30-17-26-06.json
+data/\[Test\] WebArena Tasks/389 @ 2023-12-30-17-26-06/389 @ 2023-12-30-17-26-06.mp4
+data/\[Test\] WebArena Tasks/389 @ 2023-12-30-17-26-06/389 @ 2023-12-30-17-26-06.json
+data/\[Test\] WebArena Tasks/357 @ 2023-12-30-17-22-12/SOP - 357 @ 2023-12-30-17-22-12.txt
+data/\[Test\] WebArena Tasks/357 @ 2023-12-30-17-22-12/screenshots/2.png
+data/\[Test\] WebArena Tasks/357 @ 2023-12-30-17-22-12/screenshots/1.png
+data/\[Test\] WebArena Tasks/357 @ 2023-12-30-17-22-12/screenshots/0.png
+data/\[Test\] WebArena Tasks/357 @ 2023-12-30-17-22-12/\[raw\] 357 @ 2023-12-30-17-22-12.json
+data/\[Test\] WebArena Tasks/357 @ 2023-12-30-17-22-12/\[gt\] 357 @ 2023-12-30-17-22-12.json
+data/\[Test\] WebArena Tasks/357 @ 2023-12-30-17-22-12/357 @ 2023-12-30-17-22-12.mp4
+data/\[Test\] WebArena Tasks/357 @ 2023-12-30-17-22-12/357 @ 2023-12-30-17-22-12.json
+data/\[Test\] WebArena Tasks/346 @ 2023-12-29-18-42-37/SOP - 346 @ 2023-12-29-18-42-37.txt
+data/\[Test\] WebArena Tasks/346 @ 2023-12-29-18-42-37/screenshots/7.png
+data/\[Test\] WebArena Tasks/346 @ 2023-12-29-18-42-37/screenshots/6.png
+data/\[Test\] WebArena Tasks/346 @ 2023-12-29-18-42-37/screenshots/5.png
+data/\[Test\] WebArena Tasks/346 @ 2023-12-29-18-42-37/screenshots/4.png
+data/\[Test\] WebArena Tasks/346 @ 2023-12-29-18-42-37/screenshots/3.png
+data/\[Test\] WebArena Tasks/346 @ 2023-12-29-18-42-37/screenshots/2.png
+data/\[Test\] WebArena Tasks/346 @ 2023-12-29-18-42-37/screenshots/1.png
+data/\[Test\] WebArena Tasks/346 @ 2023-12-29-18-42-37/screenshots/0.png
+data/\[Test\] WebArena Tasks/346 @ 2023-12-29-18-42-37/\[raw\] 346 @ 2023-12-29-18-42-37.json
+data/\[Test\] WebArena Tasks/346 @ 2023-12-29-18-42-37/\[gt\] 346 @ 2023-12-29-18-42-37.json
+data/\[Test\] WebArena Tasks/346 @ 2023-12-29-18-42-37/346 @ 2023-12-29-18-42-37.mp4
+data/\[Test\] WebArena Tasks/346 @ 2023-12-29-18-42-37/346 @ 2023-12-29-18-42-37.json
+data/\[Test\] WebArena Tasks/259 @ 2023-12-30-14-47-53/SOP - 259 @ 2023-12-30-14-47-53.txt
+data/\[Test\] WebArena Tasks/259 @ 2023-12-30-14-47-53/screenshots/5.png
+data/\[Test\] WebArena Tasks/259 @ 2023-12-30-14-47-53/screenshots/4.png
+data/\[Test\] WebArena Tasks/259 @ 2023-12-30-14-47-53/screenshots/3.png
+data/\[Test\] WebArena Tasks/259 @ 2023-12-30-14-47-53/screenshots/2.png
+data/\[Test\] WebArena Tasks/259 @ 2023-12-30-14-47-53/screenshots/1.png
+data/\[Test\] WebArena Tasks/259 @ 2023-12-30-14-47-53/screenshots/0.png
+data/\[Test\] WebArena Tasks/259 @ 2023-12-30-14-47-53/\[raw\] 259 @ 2023-12-30-14-47-53.json
+data/\[Test\] WebArena Tasks/259 @ 2023-12-30-14-47-53/\[gt\] 259 @ 2023-12-30-14-47-53.json
+data/\[Test\] WebArena Tasks/259 @ 2023-12-30-14-47-53/259 @ 2023-12-30-14-47-53.mp4
+data/\[Test\] WebArena Tasks/259 @ 2023-12-30-14-47-53/259 @ 2023-12-30-14-47-53.json
+data/\[Test\] WebArena Tasks/21 @ 2024-01-16-05-54-43/SOP - 21 @ 2024-01-16-05-54-43.txt
+data/\[Test\] WebArena Tasks/21 @ 2024-01-16-05-54-43/screenshots/5.png
+data/\[Test\] WebArena Tasks/21 @ 2024-01-16-05-54-43/screenshots/4.png
+data/\[Test\] WebArena Tasks/21 @ 2024-01-16-05-54-43/screenshots/3.png
+data/\[Test\] WebArena Tasks/21 @ 2024-01-16-05-54-43/screenshots/2.png
+data/\[Test\] WebArena Tasks/21 @ 2024-01-16-05-54-43/screenshots/1.png
+data/\[Test\] WebArena Tasks/21 @ 2024-01-16-05-54-43/screenshots/0.png
+data/\[Test\] WebArena Tasks/21 @ 2024-01-16-05-54-43/\[raw\] SOP - 21 @ 2024-01-16-05-54-43.txt
+data/\[Test\] WebArena Tasks/21 @ 2024-01-16-05-54-43/\[raw\] 21 @ 2024-01-16-05-54-43.json
+data/\[Test\] WebArena Tasks/21 @ 2024-01-16-05-54-43/\[gt\] 21 @ 2024-01-16-05-54-43.json
+data/\[Test\] WebArena Tasks/21 @ 2024-01-16-05-54-43/21 @ 2024-01-16-05-54-43.mp4
+data/\[Test\] WebArena Tasks/21 @ 2024-01-16-05-54-43/21 @ 2024-01-16-05-54-43.json
+data/\[Test\] WebArena Tasks/21 @ 2024-01-11-07-36-15/SOP - 21 @ 2024-01-11-07-36-15.txt
+data/\[Test\] WebArena Tasks/21 @ 2024-01-11-07-36-15/screenshots/3.png
+data/\[Test\] WebArena Tasks/21 @ 2024-01-11-07-36-15/screenshots/2.png
+data/\[Test\] WebArena Tasks/21 @ 2024-01-11-07-36-15/screenshots/1.png
+data/\[Test\] WebArena Tasks/21 @ 2024-01-11-07-36-15/screenshots/0.png
+data/\[Test\] WebArena Tasks/21 @ 2024-01-11-07-36-15/\[raw\] 21 @ 2024-01-11-07-36-15.json
+data/\[Test\] WebArena Tasks/21 @ 2024-01-11-07-36-15/\[gt\] 21 @ 2024-01-11-07-36-15.json
+data/\[Test\] WebArena Tasks/21 @ 2024-01-11-07-36-15/21 @ 2024-01-11-07-36-15.mp4
+data/\[Test\] WebArena Tasks/21 @ 2024-01-11-07-36-15/21 @ 2024-01-11-07-36-15.json
+data/\[Test\] WebArena Tasks/21 @ 2024-01-06-16-34-13/SOP - 21 @ 2024-01-06-16-34-13.txt
+data/\[Test\] WebArena Tasks/21 @ 2024-01-06-16-34-13/screenshots/4.png
+data/\[Test\] WebArena Tasks/21 @ 2024-01-06-16-34-13/screenshots/3.png
+data/\[Test\] WebArena Tasks/21 @ 2024-01-06-16-34-13/screenshots/2.png
+data/\[Test\] WebArena Tasks/21 @ 2024-01-06-16-34-13/screenshots/1.png
+data/\[Test\] WebArena Tasks/21 @ 2024-01-06-16-34-13/screenshots/0.png
+data/\[Test\] WebArena Tasks/21 @ 2024-01-06-16-34-13/\[raw\] 21 @ 2024-01-06-16-34-13.json
+data/\[Test\] WebArena Tasks/21 @ 2024-01-06-16-34-13/\[gt\] 21 @ 2024-01-06-16-34-13.json
+data/\[Test\] WebArena Tasks/21 @ 2024-01-06-16-34-13/21 @ 2024-01-06-16-34-13.mp4
+data/\[Test\] WebArena Tasks/21 @ 2024-01-06-16-34-13/21 @ 2024-01-06-16-34-13.json
+data/\[Test\] WebArena Tasks/21 @ 2024-01-05-02-16-47/SOP - 21 @ 2024-01-05-02-16-47.txt
+data/\[Test\] WebArena Tasks/21 @ 2024-01-05-02-16-47/screenshots/3.png
+data/\[Test\] WebArena Tasks/21 @ 2024-01-05-02-16-47/screenshots/2.png
+data/\[Test\] WebArena Tasks/21 @ 2024-01-05-02-16-47/screenshots/1.png
+data/\[Test\] WebArena Tasks/21 @ 2024-01-05-02-16-47/screenshots/0.png
+data/\[Test\] WebArena Tasks/21 @ 2024-01-05-02-16-47/\[raw\] 21 @ 2024-01-05-02-16-47.json
+data/\[Test\] WebArena Tasks/21 @ 2024-01-05-02-16-47/\[gt\] 21 @ 2024-01-05-02-16-47.json
+data/\[Test\] WebArena Tasks/21 @ 2024-01-05-02-16-47/21 @ 2024-01-05-02-16-47.mp4
+data/\[Test\] WebArena Tasks/21 @ 2024-01-05-02-16-47/21 @ 2024-01-05-02-16-47.json
+data/\[Test\] WebArena Tasks/21 @ 2023-12-31-18-13-49/SOP - 21 @ 2023-12-31-18-13-49.txt
+data/\[Test\] WebArena Tasks/21 @ 2023-12-31-18-13-49/screenshots/3.png
+data/\[Test\] WebArena Tasks/21 @ 2023-12-31-18-13-49/screenshots/2.png
+data/\[Test\] WebArena Tasks/21 @ 2023-12-31-18-13-49/screenshots/1.png
+data/\[Test\] WebArena Tasks/21 @ 2023-12-31-18-13-49/screenshots/0.png
+data/\[Test\] WebArena Tasks/21 @ 2023-12-31-18-13-49/\[raw\] 21 @ 2023-12-31-18-13-49.json
+data/\[Test\] WebArena Tasks/21 @ 2023-12-31-18-13-49/\[gt\] 21 @ 2023-12-31-18-13-49.json
+data/\[Test\] WebArena Tasks/21 @ 2023-12-31-18-13-49/21 @ 2023-12-31-18-13-49.mp4
+data/\[Test\] WebArena Tasks/21 @ 2023-12-31-18-13-49/21 @ 2023-12-31-18-13-49.json
+data/\[Test\] WebArena Tasks/199 @ 2023-12-29-15-15-07/SOP - 199 @ 2023-12-29-15-15-07.txt
+data/\[Test\] WebArena Tasks/199 @ 2023-12-29-15-15-07/screenshots/4.png
+data/\[Test\] WebArena Tasks/199 @ 2023-12-29-15-15-07/screenshots/3.png
+data/\[Test\] WebArena Tasks/199 @ 2023-12-29-15-15-07/screenshots/2.png
+data/\[Test\] WebArena Tasks/199 @ 2023-12-29-15-15-07/screenshots/1.png
+data/\[Test\] WebArena Tasks/199 @ 2023-12-29-15-15-07/screenshots/0.png
+data/\[Test\] WebArena Tasks/199 @ 2023-12-29-15-15-07/\[raw\] 199 @ 2023-12-29-15-15-07.json
+data/\[Test\] WebArena Tasks/199 @ 2023-12-29-15-15-07/\[gt\] 199 @ 2023-12-29-15-15-07.json
+data/\[Test\] WebArena Tasks/199 @ 2023-12-29-15-15-07/199 @ 2023-12-29-15-15-07.mp4
+data/\[Test\] WebArena Tasks/199 @ 2023-12-29-15-15-07/199 @ 2023-12-29-15-15-07.json
+data/\[Test\] WebArena Tasks/173 @ 2023-12-26-12-07-02/SOP - 173 @ 2023-12-26-12-07-02.txt
+data/\[Test\] WebArena Tasks/173 @ 2023-12-26-12-07-02/screenshots/6.png
+data/\[Test\] WebArena Tasks/173 @ 2023-12-26-12-07-02/screenshots/5.png
+data/\[Test\] WebArena Tasks/173 @ 2023-12-26-12-07-02/screenshots/4.png
+data/\[Test\] WebArena Tasks/173 @ 2023-12-26-12-07-02/screenshots/3.png
+data/\[Test\] WebArena Tasks/173 @ 2023-12-26-12-07-02/screenshots/2.png
+data/\[Test\] WebArena Tasks/173 @ 2023-12-26-12-07-02/screenshots/1.png
+data/\[Test\] WebArena Tasks/173 @ 2023-12-26-12-07-02/screenshots/0.png
+data/\[Test\] WebArena Tasks/173 @ 2023-12-26-12-07-02/\[raw\] 173 @ 2023-12-26-12-07-02.json
+data/\[Test\] WebArena Tasks/173 @ 2023-12-26-12-07-02/\[gt\] 173 @ 2023-12-26-12-07-02.json
+data/\[Test\] WebArena Tasks/173 @ 2023-12-26-12-07-02/173 @ 2023-12-26-12-07-02.mp4
+data/\[Test\] WebArena Tasks/173 @ 2023-12-26-12-07-02/173 @ 2023-12-26-12-07-02.json
+data/\[Test\] WebArena Tasks/14 @ 2024-01-13-05-02-07/SOP - 14 @ 2024-01-13-05-02-07.txt
+data/\[Test\] WebArena Tasks/14 @ 2024-01-13-05-02-07/screenshots/6.png
+data/\[Test\] WebArena Tasks/14 @ 2024-01-13-05-02-07/screenshots/5.png
+data/\[Test\] WebArena Tasks/14 @ 2024-01-13-05-02-07/screenshots/4.png
+data/\[Test\] WebArena Tasks/14 @ 2024-01-13-05-02-07/screenshots/3.png
+data/\[Test\] WebArena Tasks/14 @ 2024-01-13-05-02-07/screenshots/2.png
+data/\[Test\] WebArena Tasks/14 @ 2024-01-13-05-02-07/screenshots/1.png
+data/\[Test\] WebArena Tasks/14 @ 2024-01-13-05-02-07/screenshots/0.png
+data/\[Test\] WebArena Tasks/14 @ 2024-01-13-05-02-07/\[raw\] SOP - 14 @ 2024-01-13-05-02-07.txt
+data/\[Test\] WebArena Tasks/14 @ 2024-01-13-05-02-07/\[raw\] 14 @ 2024-01-13-05-02-07.json
+data/\[Test\] WebArena Tasks/14 @ 2024-01-13-05-02-07/\[gt\] 14 @ 2024-01-13-05-02-07.json
+data/\[Test\] WebArena Tasks/14 @ 2024-01-13-05-02-07/14 @ 2024-01-13-05-02-07.mp4
+data/\[Test\] WebArena Tasks/14 @ 2024-01-13-05-02-07/14 @ 2024-01-13-05-02-07.json
+data/\[Test\] WebArena Tasks/14 @ 2024-01-08-17-36-41/SOP - 14 @ 2024-01-08-17-36-41.txt
+data/\[Test\] WebArena Tasks/14 @ 2024-01-08-17-36-41/screenshots/5.png
+data/\[Test\] WebArena Tasks/14 @ 2024-01-08-17-36-41/screenshots/4.png
+data/\[Test\] WebArena Tasks/14 @ 2024-01-08-17-36-41/screenshots/3.png
+data/\[Test\] WebArena Tasks/14 @ 2024-01-08-17-36-41/screenshots/2.png
+data/\[Test\] WebArena Tasks/14 @ 2024-01-08-17-36-41/screenshots/1.png
+data/\[Test\] WebArena Tasks/14 @ 2024-01-08-17-36-41/screenshots/0.png
+data/\[Test\] WebArena Tasks/14 @ 2024-01-08-17-36-41/\[raw\] 14 @ 2024-01-08-17-36-41.json
+data/\[Test\] WebArena Tasks/14 @ 2024-01-08-17-36-41/\[gt\] 14 @ 2024-01-08-17-36-41.json
+data/\[Test\] WebArena Tasks/14 @ 2024-01-08-17-36-41/14 @ 2024-01-08-17-36-41.mp4
+data/\[Test\] WebArena Tasks/14 @ 2024-01-08-17-36-41/14 @ 2024-01-08-17-36-41.json
+data/\[Test\] WebArena Tasks/14 @ 2024-01-05-02-12-26/SOP - 14 @ 2024-01-05-02-12-26.txt
+data/\[Test\] WebArena Tasks/14 @ 2024-01-05-02-12-26/screenshots/5.png
+data/\[Test\] WebArena Tasks/14 @ 2024-01-05-02-12-26/screenshots/4.png
+data/\[Test\] WebArena Tasks/14 @ 2024-01-05-02-12-26/screenshots/3.png
+data/\[Test\] WebArena Tasks/14 @ 2024-01-05-02-12-26/screenshots/2.png
+data/\[Test\] WebArena Tasks/14 @ 2024-01-05-02-12-26/screenshots/1.png
+data/\[Test\] WebArena Tasks/14 @ 2024-01-05-02-12-26/screenshots/0.png
+data/\[Test\] WebArena Tasks/14 @ 2024-01-05-02-12-26/\[raw\] 14 @ 2024-01-05-02-12-26.json
+data/\[Test\] WebArena Tasks/14 @ 2024-01-05-02-12-26/\[gt\] 14 @ 2024-01-05-02-12-26.json
+data/\[Test\] WebArena Tasks/14 @ 2024-01-05-02-12-26/14 @ 2024-01-05-02-12-26.mp4
+data/\[Test\] WebArena Tasks/14 @ 2024-01-05-02-12-26/14 @ 2024-01-05-02-12-26.json
+data/\[Test\] WebArena Tasks/14 @ 2023-12-25-17-33-45/SOP - 14 @ 2023-12-25-17-33-45.txt
+data/\[Test\] WebArena Tasks/14 @ 2023-12-25-17-33-45/screenshots/5.png
+data/\[Test\] WebArena Tasks/14 @ 2023-12-25-17-33-45/screenshots/4.png
+data/\[Test\] WebArena Tasks/14 @ 2023-12-25-17-33-45/screenshots/3.png
+data/\[Test\] WebArena Tasks/14 @ 2023-12-25-17-33-45/screenshots/2.png
+data/\[Test\] WebArena Tasks/14 @ 2023-12-25-17-33-45/screenshots/1.png
+data/\[Test\] WebArena Tasks/14 @ 2023-12-25-17-33-45/screenshots/0.png
+data/\[Test\] WebArena Tasks/14 @ 2023-12-25-17-33-45/\[raw\] 14 @ 2023-12-25-17-33-45.json
+data/\[Test\] WebArena Tasks/14 @ 2023-12-25-17-33-45/\[gt\] 14 @ 2023-12-25-17-33-45.json
+data/\[Test\] WebArena Tasks/14 @ 2023-12-25-17-33-45/14 @ 2023-12-25-17-33-45.mp4
+data/\[Test\] WebArena Tasks/14 @ 2023-12-25-17-33-45/14 @ 2023-12-25-17-33-45.json
+data/\[Test\] WebArena Tasks/14 @ 2023-12-25-16-12-37/SOP - 14 @ 2023-12-25-16-12-37.txt
+data/\[Test\] WebArena Tasks/14 @ 2023-12-25-16-12-37/screenshots/5.png
+data/\[Test\] WebArena Tasks/14 @ 2023-12-25-16-12-37/screenshots/4.png
+data/\[Test\] WebArena Tasks/14 @ 2023-12-25-16-12-37/screenshots/3.png
+data/\[Test\] WebArena Tasks/14 @ 2023-12-25-16-12-37/screenshots/2.png
+data/\[Test\] WebArena Tasks/14 @ 2023-12-25-16-12-37/screenshots/1.png
+data/\[Test\] WebArena Tasks/14 @ 2023-12-25-16-12-37/screenshots/0.png
+data/\[Test\] WebArena Tasks/14 @ 2023-12-25-16-12-37/\[raw\] 14 @ 2023-12-25-16-12-37.json
+data/\[Test\] WebArena Tasks/14 @ 2023-12-25-16-12-37/\[gt\] 14 @ 2023-12-25-16-12-37.json
+data/\[Test\] WebArena Tasks/14 @ 2023-12-25-16-12-37/14 @ 2023-12-25-16-12-37.mp4
+data/\[Test\] WebArena Tasks/14 @ 2023-12-25-16-12-37/14 @ 2023-12-25-16-12-37.json
+data/\[Test\] WebArena Tasks/132 @ 2023-12-30-12-46-30/SOP - 132 @ 2023-12-30-12-46-30.txt
+data/\[Test\] WebArena Tasks/132 @ 2023-12-30-12-46-30/screenshots/2.png
+data/\[Test\] WebArena Tasks/132 @ 2023-12-30-12-46-30/screenshots/1.png
+data/\[Test\] WebArena Tasks/132 @ 2023-12-30-12-46-30/screenshots/0.png
+data/\[Test\] WebArena Tasks/132 @ 2023-12-30-12-46-30/\[raw\] 132 @ 2023-12-30-12-46-30.json
+data/\[Test\] WebArena Tasks/132 @ 2023-12-30-12-46-30/\[gt\] 132 @ 2023-12-30-12-46-30.json
+data/\[Test\] WebArena Tasks/132 @ 2023-12-30-12-46-30/132 @ 2023-12-30-12-46-30.mp4
+data/\[Test\] WebArena Tasks/132 @ 2023-12-30-12-46-30/132 @ 2023-12-30-12-46-30.json
+data/\[Test\] WebArena Tasks/12 @ 2023-12-25-16-09-12/SOP - 12 @ 2023-12-25-16-09-12.txt
+data/\[Test\] WebArena Tasks/12 @ 2023-12-25-16-09-12/screenshots/5.png
+data/\[Test\] WebArena Tasks/12 @ 2023-12-25-16-09-12/screenshots/4.png
+data/\[Test\] WebArena Tasks/12 @ 2023-12-25-16-09-12/screenshots/3.png
+data/\[Test\] WebArena Tasks/12 @ 2023-12-25-16-09-12/screenshots/2.png
+data/\[Test\] WebArena Tasks/12 @ 2023-12-25-16-09-12/screenshots/1.png
+data/\[Test\] WebArena Tasks/12 @ 2023-12-25-16-09-12/screenshots/0.png
+data/\[Test\] WebArena Tasks/12 @ 2023-12-25-16-09-12/\[raw\] 12 @ 2023-12-25-16-09-12.json
+data/\[Test\] WebArena Tasks/12 @ 2023-12-25-16-09-12/\[gt\] 12 @ 2023-12-25-16-09-12.json
+data/\[Test\] WebArena Tasks/12 @ 2023-12-25-16-09-12/12 @ 2023-12-25-16-09-12.mp4
+data/\[Test\] WebArena Tasks/12 @ 2023-12-25-16-09-12/12 @ 2023-12-25-16-09-12.json
+data/\[Test\] WebArena Tasks/104 @ 2023-12-30-12-23-12/SOP - 104 @ 2023-12-30-12-23-12.txt
+data/\[Test\] WebArena Tasks/104 @ 2023-12-30-12-23-12/screenshots/9.png
+data/\[Test\] WebArena Tasks/104 @ 2023-12-30-12-23-12/screenshots/8.png
+data/\[Test\] WebArena Tasks/104 @ 2023-12-30-12-23-12/screenshots/7.png
+data/\[Test\] WebArena Tasks/104 @ 2023-12-30-12-23-12/screenshots/6.png
+data/\[Test\] WebArena Tasks/104 @ 2023-12-30-12-23-12/screenshots/5.png
+data/\[Test\] WebArena Tasks/104 @ 2023-12-30-12-23-12/screenshots/4.png
+data/\[Test\] WebArena Tasks/104 @ 2023-12-30-12-23-12/screenshots/3.png
+data/\[Test\] WebArena Tasks/104 @ 2023-12-30-12-23-12/screenshots/2.png
+data/\[Test\] WebArena Tasks/104 @ 2023-12-30-12-23-12/screenshots/11.png
+data/\[Test\] WebArena Tasks/104 @ 2023-12-30-12-23-12/screenshots/10.png
+data/\[Test\] WebArena Tasks/104 @ 2023-12-30-12-23-12/screenshots/1.png
+data/\[Test\] WebArena Tasks/104 @ 2023-12-30-12-23-12/screenshots/0.png
+data/\[Test\] WebArena Tasks/104 @ 2023-12-30-12-23-12/\[raw\] 104 @ 2023-12-30-12-23-12.json
+data/\[Test\] WebArena Tasks/104 @ 2023-12-30-12-23-12/\[gt\] 104 @ 2023-12-30-12-23-12.json
+data/\[Test\] WebArena Tasks/104 @ 2023-12-30-12-23-12/104 @ 2023-12-30-12-23-12.mp4
+data/\[Test\] WebArena Tasks/104 @ 2023-12-30-12-23-12/104 @ 2023-12-30-12-23-12.json
+data/\[Test\] WebArena Tasks/1 @ 2024-01-13-04-50-53/SOP - 1 @ 2024-01-13-04-50-53.txt
+data/\[Test\] WebArena Tasks/1 @ 2024-01-13-04-50-53/screenshots/9.png
+data/\[Test\] WebArena Tasks/1 @ 2024-01-13-04-50-53/screenshots/8.png
+data/\[Test\] WebArena Tasks/1 @ 2024-01-13-04-50-53/screenshots/7.png
+data/\[Test\] WebArena Tasks/1 @ 2024-01-13-04-50-53/screenshots/6.png
+data/\[Test\] WebArena Tasks/1 @ 2024-01-13-04-50-53/screenshots/5.png
+data/\[Test\] WebArena Tasks/1 @ 2024-01-13-04-50-53/screenshots/4.png
+data/\[Test\] WebArena Tasks/1 @ 2024-01-13-04-50-53/screenshots/3.png
+data/\[Test\] WebArena Tasks/1 @ 2024-01-13-04-50-53/screenshots/2.png
+data/\[Test\] WebArena Tasks/1 @ 2024-01-13-04-50-53/screenshots/1.png
+data/\[Test\] WebArena Tasks/1 @ 2024-01-13-04-50-53/screenshots/0.png
+data/\[Test\] WebArena Tasks/1 @ 2024-01-13-04-50-53/\[raw\] SOP - 1 @ 2024-01-13-04-50-53.txt
+data/\[Test\] WebArena Tasks/1 @ 2024-01-13-04-50-53/\[raw\] 1 @ 2024-01-13-04-50-53.json
+data/\[Test\] WebArena Tasks/1 @ 2024-01-13-04-50-53/\[gt\] 1 @ 2024-01-13-04-50-53.json
+data/\[Test\] WebArena Tasks/1 @ 2024-01-13-04-50-53/1 @ 2024-01-13-04-50-53.mp4
+data/\[Test\] WebArena Tasks/1 @ 2024-01-13-04-50-53/1 @ 2024-01-13-04-50-53.json
+data/\[Test\] WebArena Tasks/1 @ 2024-01-08-15-20-51/SOP - 1 @ 2024-01-08-15-20-51.txt
+data/\[Test\] WebArena Tasks/1 @ 2024-01-08-15-20-51/screenshots/8.png
+data/\[Test\] WebArena Tasks/1 @ 2024-01-08-15-20-51/screenshots/7.png
+data/\[Test\] WebArena Tasks/1 @ 2024-01-08-15-20-51/screenshots/6.png
+data/\[Test\] WebArena Tasks/1 @ 2024-01-08-15-20-51/screenshots/5.png
+data/\[Test\] WebArena Tasks/1 @ 2024-01-08-15-20-51/screenshots/4.png
+data/\[Test\] WebArena Tasks/1 @ 2024-01-08-15-20-51/screenshots/3.png
+data/\[Test\] WebArena Tasks/1 @ 2024-01-08-15-20-51/screenshots/2.png
+data/\[Test\] WebArena Tasks/1 @ 2024-01-08-15-20-51/screenshots/1.png
+data/\[Test\] WebArena Tasks/1 @ 2024-01-08-15-20-51/screenshots/0.png
+data/\[Test\] WebArena Tasks/1 @ 2024-01-08-15-20-51/\[raw\] 1 @ 2024-01-08-15-20-51.json
+data/\[Test\] WebArena Tasks/1 @ 2024-01-08-15-20-51/\[gt\] 1 @ 2024-01-08-15-20-51.json
+data/\[Test\] WebArena Tasks/1 @ 2024-01-08-15-20-51/1 @ 2024-01-08-15-20-51.mp4
+data/\[Test\] WebArena Tasks/1 @ 2024-01-08-15-20-51/1 @ 2024-01-08-15-20-51.json
+data/\[Test\] WebArena Tasks/1 @ 2024-01-05-01-57-42/SOP - 1 @ 2024-01-05-01-57-42.txt
+data/\[Test\] WebArena Tasks/1 @ 2024-01-05-01-57-42/screenshots/8.png
+data/\[Test\] WebArena Tasks/1 @ 2024-01-05-01-57-42/screenshots/7.png
+data/\[Test\] WebArena Tasks/1 @ 2024-01-05-01-57-42/screenshots/6.png
+data/\[Test\] WebArena Tasks/1 @ 2024-01-05-01-57-42/screenshots/5.png
+data/\[Test\] WebArena Tasks/1 @ 2024-01-05-01-57-42/screenshots/4.png
+data/\[Test\] WebArena Tasks/1 @ 2024-01-05-01-57-42/screenshots/3.png
+data/\[Test\] WebArena Tasks/1 @ 2024-01-05-01-57-42/screenshots/2.png
+data/\[Test\] WebArena Tasks/1 @ 2024-01-05-01-57-42/screenshots/1.png
+data/\[Test\] WebArena Tasks/1 @ 2024-01-05-01-57-42/screenshots/0.png
+data/\[Test\] WebArena Tasks/1 @ 2024-01-05-01-57-42/\[raw\] 1 @ 2024-01-05-01-57-42.json
+data/\[Test\] WebArena Tasks/1 @ 2024-01-05-01-57-42/\[gt\] 1 @ 2024-01-05-01-57-42.json
+data/\[Test\] WebArena Tasks/1 @ 2024-01-05-01-57-42/1 @ 2024-01-05-01-57-42.mp4
+data/\[Test\] WebArena Tasks/1 @ 2024-01-05-01-57-42/1 @ 2024-01-05-01-57-42.json
+data/\[Test\] WebArena Tasks/1 @ 2023-12-25-17-08-00/SOP - 1 @ 2023-12-25-17-08-00.txt
+data/\[Test\] WebArena Tasks/1 @ 2023-12-25-17-08-00/screenshots/8.png
+data/\[Test\] WebArena Tasks/1 @ 2023-12-25-17-08-00/screenshots/7.png
+data/\[Test\] WebArena Tasks/1 @ 2023-12-25-17-08-00/screenshots/6.png
+data/\[Test\] WebArena Tasks/1 @ 2023-12-25-17-08-00/screenshots/5.png
+data/\[Test\] WebArena Tasks/1 @ 2023-12-25-17-08-00/screenshots/4.png
+data/\[Test\] WebArena Tasks/1 @ 2023-12-25-17-08-00/screenshots/3.png
+data/\[Test\] WebArena Tasks/1 @ 2023-12-25-17-08-00/screenshots/2.png
+data/\[Test\] WebArena Tasks/1 @ 2023-12-25-17-08-00/screenshots/1.png
+data/\[Test\] WebArena Tasks/1 @ 2023-12-25-17-08-00/screenshots/0.png
+data/\[Test\] WebArena Tasks/1 @ 2023-12-25-17-08-00/\[raw\] 1 @ 2023-12-25-17-08-00.json
+data/\[Test\] WebArena Tasks/1 @ 2023-12-25-17-08-00/1 @ 2023-12-25-17-08-00.mp4
+data/\[Test\] WebArena Tasks/1 @ 2023-12-25-17-08-00/1 @ 2023-12-25-17-08-00.json
+data/\[Test\] WebArena Tasks/1 @ 2023-12-25-15-44-04/SOP - 1 @ 2023-12-25-15-44-04.txt
+data/\[Test\] WebArena Tasks/1 @ 2023-12-25-15-44-04/screenshots/8.png
+data/\[Test\] WebArena Tasks/1 @ 2023-12-25-15-44-04/screenshots/7.png
+data/\[Test\] WebArena Tasks/1 @ 2023-12-25-15-44-04/screenshots/6.png
+data/\[Test\] WebArena Tasks/1 @ 2023-12-25-15-44-04/screenshots/5.png
+data/\[Test\] WebArena Tasks/1 @ 2023-12-25-15-44-04/screenshots/4.png
+data/\[Test\] WebArena Tasks/1 @ 2023-12-25-15-44-04/screenshots/3.png
+data/\[Test\] WebArena Tasks/1 @ 2023-12-25-15-44-04/screenshots/2.png
+data/\[Test\] WebArena Tasks/1 @ 2023-12-25-15-44-04/screenshots/1.png
+data/\[Test\] WebArena Tasks/1 @ 2023-12-25-15-44-04/screenshots/0.png
+data/\[Test\] WebArena Tasks/1 @ 2023-12-25-15-44-04/\[raw\] 1 @ 2023-12-25-15-44-04.json
+data/\[Test\] WebArena Tasks/1 @ 2023-12-25-15-44-04/\[gt\] 1 @ 2023-12-25-15-44-04.json
+data/\[Test\] WebArena Tasks/1 @ 2023-12-25-15-44-04/1 @ 2023-12-25-15-44-04.mp4
+data/\[Test\] WebArena Tasks/1 @ 2023-12-25-15-44-04/1 @ 2023-12-25-15-44-04.json
