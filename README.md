@@ -18,14 +18,30 @@
 <img width="1200" alt="Figure 1" src="https://github.com/HazyResearch/wonderbread/assets/5491790/1e68832f-de67-47bf-a480-78b92beb55f2">
 
 
-# Quickstart
+# ⚡ Quickstart
 
-TODO
+```bash
+# Install repo
+git clone https://github.com/HazyResearch/wonderbread.git
+cd wonderbread/
 
+# Create conda env + install dependencies
+conda create -n demo_env python=3.10 -y
+conda activate demo_env
+pip3 install -r requirements.txt
+pip3 install -e .
+```
+
+To...
+- Record your own workflows, please visit `wonderbread/collect`.
+- Run benchmark tasks, please visit `wonderbread/benchmark/tasks`
+- Run automated evaluations, please visit `wonderbread/benchmark/eval`
 
 # 💽 Dataset
 
 <img width="1200" alt="Dataset Collection Process" src="https://github.com/HazyResearch/wonderbread/assets/5491790/98922312-7914-4a62-a569-523b4ec2b1e4">
+
+All demonstration data [can be found at this link](https://drive.google.com/drive/folders/1sVNJGQHmd0QTNFgEuYFqgXLuQu3VFlsj).
 
 **WONDERBREAD** contains...
 
@@ -38,7 +54,10 @@ TODO
 * **Rankings** of demonstrations in order of quality for **162 workflows**
 * **120 question-answer pairs** about workflow characteristics
 
+
 # 📊 Benchmark
+
+All tasks can be found in `wonderbread/benchmark/tasks`.
 
 **WONDERBREAD** contains **6 tasks** drawn from the following high-level BPM use cases...
 
@@ -53,6 +72,11 @@ TODO
 3. **Process Improvement:** Analyze workflows to identify inefficiencies and correct execution errors.
 
 <img width="1200" alt="Improvement Tasks" src="https://github.com/HazyResearch/wonderbread/assets/5491790/4ebd0d9f-d683-4c91-9b0e-1a5a4943a1ea">
+
+
+# ✅ Evaluation
+
+All evaluation scripts can be found in `wonderbread/benchmark/eval`.
 
 # Citation
 
