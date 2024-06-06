@@ -83,8 +83,6 @@ All evaluation scripts can be found in `wonderbread/benchmark/eval`.
 Please consider citing the following if you found this work or code helpful!
 
 ```
-TBD - US
-
 @article{hazyresearch2024wonderbread,
   title={WONDERBREAD: A Benchmark for Business
 Process Management Tasks},
