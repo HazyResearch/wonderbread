@@ -1,0 +1,31 @@
+{
+  "sites": [
+    "shopping"
+  ],
+  "task_id": 235,
+  "require_login": true,
+  "storage_state": "./.auth/shopping_state.json",
+  "start_url": "http://ec2-3-130-83-246.us-east-2.compute.amazonaws.com:7770",
+  "geolocation": null,
+  "intent_template": "Get the order number of my most recent {{status}} order ",
+  "instantiation_dict": {
+    "status": ""
+  },
+  "intent": "Get the order number of my most recent  order ",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "must_include": [
+        "136"
+      ]
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "000000136"
+  },
+  "intent_template_id": 213
+}
