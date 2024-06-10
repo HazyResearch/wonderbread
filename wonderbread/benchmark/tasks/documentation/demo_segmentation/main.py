@@ -1,9 +1,3 @@
-"""
-Usage:
-
-python main.py <PATH_TO_TASKS_DIR> FLAGS
-"""
-
 import collections
 import random
 import dirtyjson
