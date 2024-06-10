@@ -26,8 +26,8 @@ git clone https://github.com/HazyResearch/wonderbread.git
 cd wonderbread/
 
 # Create conda env + install dependencies
-conda create -n demo_env python=3.10 -y
-conda activate demo_env
+conda create -n wonderbread python=3.10 -y
+conda activate wonderbread
 pip3 install -r requirements.txt
 pip3 install -e .
 ```
