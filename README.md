@@ -54,6 +54,9 @@ All demonstration data [can be found at this link](https://drive.google.com/driv
 * **Rankings** of demonstrations in order of quality for **162 workflows**
 * **120 question-answer pairs** about workflow characteristics
 
+We distribute the dataset two ways:
+1. `demos.zip` -- [Link](https://drive.google.com/file/d/1k-T-q1SI7rDu7pvqUPQ2w87OLf_IQrSv/view?usp=drive_link) -- the full dataset
+2. `gold_demos.zip` -- [Link](https://drive.google.com/file/d/193Mz_aMuVCXovT3fIwwZc9aH6if9PNjQ/view?usp=drive_link) -- only demonstrations corresponding to the 162 workflow intents with gold SOPs 
 
 # 📊 Benchmark
 
