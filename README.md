@@ -31,6 +31,9 @@ conda activate wonderbread_env
 pip3 install -r requirements.txt
 pip3 install -e .
 
+# Download the .zip file below, save it as data/demos/
+# https://drive.google.com/file/d/193Mz_aMuVCXovT3fIwwZc9aH6if9PNjQ/view
+
 # Run evaluations for GPT4 (in debug mode, so only 3 examples per task)
 export OPENAI_API_KEY=<Your API Key>
 python3 documentation/sop_generation/run_experiments.py --model GPT4 --is_debug
