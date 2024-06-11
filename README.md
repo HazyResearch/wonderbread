@@ -93,7 +93,7 @@ All tasks can be found in `wonderbread/benchmark/tasks`.
 
 All evaluation scripts can be found in `wonderbread/benchmark/eval`.
 
-# Citation
+# 📄 Citation
 
 Please consider citing the following if you found this work or code helpful!
 
