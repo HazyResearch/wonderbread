@@ -30,9 +30,18 @@ conda create -n wonderbread_env python=3.10 -y
 conda activate wonderbread_env
 pip3 install -r requirements.txt
 pip3 install -e .
+
+# Run evaluations for GPT4 (in debug mode, so only 3 examples per task)
+export OPENAI_API_KEY=<Your API Key>
+python3 documentation/sop_generation/run_experiments.py --model GPT4 --is_debug
+python3 documentation/demo_segmentation/run_experiments.py --model GPT4 --is_debug
+python3 improvement/sop_improvement/run_experiments.py --model GPT4 --is_debug
+python3 improvement/sop_ranking/run_experiments.py --model GPT4 --is_debug
+python3 knowledge_transfer/demo_validation/run_experiments.py --model GPT4 --is_debug
+python3 knowledge_transfer/question_answering/run_experiments.py --model GPT4 --is_debug
 ```
 
-To...
+In order to...
 - Record your own workflows, please visit `wonderbread/collect`.
 - Run benchmark tasks, please visit `wonderbread/benchmark/tasks`
 - Run automated evaluations, please visit `wonderbread/benchmark/eval`
