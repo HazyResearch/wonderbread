@@ -32,7 +32,7 @@ def run_experiment_execute_thread(df: pd.DataFrame,
     for idx, row in df.iterrows():
         tasks.append({
             'func' : run,
-            'path_to_demo_folder' : row['path_to_demo_folder'] if is_path_to_demo_folder else get_rel_path(__file__, '../../data/demos/'), # either provide a path to a specific demo folder or use the parent demos/ folder
+            'path_to_demo_folder' : row['path_to_demo_folder'] if is_path_to_demo_folder else get_rel_path(__file__, '../../../data/demos/'), # either provide a path to a specific demo folder or use the parent demos/ folder
             'path_to_output_dir' : path_to_output_dir, 
             'task_id' : int(row['task_id']), 
             'model' : model, 
@@ -98,10 +98,10 @@ def run_experiment(run: Callable,
 
     # Load dataset
     if is_use_rank_1_df:
-        df_rankings = pd.read_csv(get_rel_path(__file__, '../../data/df_rankings.csv'))
+        df_rankings = pd.read_csv(get_rel_path(__file__, '../../../data/df_rankings.csv'))
         df = df_rankings[df_rankings['rank'] == 1]
     else:
-        df = pd.read_csv(get_rel_path(__file__, '../../data/df_valid.csv'))
+        df = pd.read_csv(get_rel_path(__file__, '../../../data/df_valid.csv'))
     
     if is_debug:
         df = df.iloc[:3]
