@@ -36,6 +36,7 @@ pip3 install -e .
 
 # Run evaluations for GPT4 (in debug mode, so only 3 examples per task)
 export OPENAI_API_KEY=<Your API Key>
+cd wonderbread/benchmark/tasks
 python3 documentation/sop_generation/run_experiments.py --model GPT4 --is_debug
 python3 documentation/demo_segmentation/run_experiments.py --model GPT4 --is_debug
 python3 improvement/sop_improvement/run_experiments.py --model GPT4 --is_debug
