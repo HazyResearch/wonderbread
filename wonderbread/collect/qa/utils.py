@@ -12,7 +12,6 @@ from wonderbread.helpers import (
 )
 import Levenshtein
 from tqdm import tqdm
-from moviepy.editor import VideoFileClip
 
 RECORDING_LENGTH_DIFF_THRESHOLD = 10 # seconds
 TRACE_ACTION_LENGTH_DIFF_THRESHOLD = 5 # number of actions
@@ -93,6 +92,7 @@ def truncate_trace_if_non_chrome_app(tasks: List[Task], drive) -> List[QACheck]:
     """Checks if non-Chrome app is at very start or end of trace.json
     If so, then truncate the trace.json and .mp4 to remove t he non-Chrome app
     """
+    from moviepy.editor import VideoFileClip
     trace_errors: List[QACheck] = state_app_name_correct(tasks, drive)
     trace_errors = [ x for x in trace_errors if not x.is_valid ]
     qa_results: List[QACheck] = []
