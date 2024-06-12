@@ -18,7 +18,6 @@ from pydrive2.auth import GoogleAuth
 from pydrive2.drive import GoogleDrive
 import pandas as pd
 from tqdm import tqdm
-from moviepy.editor import VideoFileClip
 from PIL import Image
 from io import BytesIO
 import collections
@@ -119,6 +118,7 @@ class Task:
         return self.trace_actions
 
     def get_recording_length(self, drive) -> Optional[str]:
+        from moviepy.editor import VideoFileClip
         if self.recording_length is None:
             # Fetch recording.mp4
             assert self.path_to_video is not None, "Path to video is not set"
