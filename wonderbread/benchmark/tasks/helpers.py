@@ -30,9 +30,10 @@ def run_experiment_execute_thread(df: pd.DataFrame,
     """
     tasks = []
     for idx, row in df.iterrows():
+        path_to_demo_folder: str = get_rel_path(__file__, os.path.join('../../../', row['path_to_demo_folder']))
         tasks.append({
             'func' : run,
-            'path_to_demo_folder' : row['path_to_demo_folder'] if is_path_to_demo_folder else get_rel_path(__file__, '../../../data/demos/'), # either provide a path to a specific demo folder or use the parent demos/ folder
+            'path_to_demo_folder' : path_to_demo_folder if is_path_to_demo_folder else get_rel_path(__file__, '../../../data/demos/'), # either provide a path to a specific demo folder or use the parent demos/ folder
             'path_to_output_dir' : path_to_output_dir, 
             'task_id' : int(row['task_id']), 
             'model' : model, 

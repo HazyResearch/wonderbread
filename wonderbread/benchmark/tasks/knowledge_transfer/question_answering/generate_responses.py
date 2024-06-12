@@ -36,6 +36,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument( "--model", type=str, default="GPT4", help="Model to use for abstraction, one of [GPT4, GeminiPro, Human], \
                         `Human` just copies the human labels provided in the input CSV file" ,
                         choices=["GPT4", "GeminiPro", "Claude3", "Human"] )
+    parser.add_argument("--is_debug", action='store_true', default=False, help="If set, run in debug mode (only 3 examples)")
 
     return parser.parse_args()
 
@@ -206,10 +207,14 @@ def generate_response(path_to_input_dir: str, task_ids: str, question: str, evid
 def run(path_to_input_dir: str,
         path_to_input_csv: str,
         path_to_output_dir: str,
-        model: str) -> None:
+        model: str,
+        is_debug: bool = False) -> None:
     """Generate QnA responses for each task in the input CSV file and save to output CSV file"""
 
     df_input = pd.read_csv(path_to_input_csv)
+    
+    if is_debug:
+        df_input = df_input.head(3)
 
     # Create output directory
     os.makedirs(path_to_output_dir, exist_ok=True)
@@ -261,11 +266,13 @@ if __name__ == "__main__":
     
     # Task-specific flags
     model: str = args.model
+    is_debug: bool = args.is_debug
 
     run(
         path_to_input_dir, 
         path_to_input_csv,
         path_to_output_dir, 
         model,
+        is_debug
     )
 

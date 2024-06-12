@@ -13,6 +13,7 @@ if __name__ == "__main__":
     args = parse_args()
     path_to_input_dir: str = args.path_to_input_dir
     path_to_output_dir: str = args.path_to_output_dir
+    os.makedirs(path_to_output_dir, exist_ok=True)
     
     results: List[pd.DataFrame] = []
     for demo_folder in os.listdir(path_to_input_dir):
@@ -25,7 +26,8 @@ if __name__ == "__main__":
                 results.append(df)
 
     # Save results to CSV
-    df = pd.concat(results)
-    df['ablation'] = df[[col for col in df.columns if col.startswith('ablation--')]].apply(lambda x: '--'.join(map(str, x)), axis=1)
-    df.to_csv(os.path.join(path_to_output_dir, 'self_monitoring_all_results.csv'), index=False)
-    print(f"Saved output CSV to {os.path.join(path_to_output_dir, 'self_monitoring_all_results.csv')}")
+    if len(results) > 0:
+        df = pd.concat(results)
+        df['ablation'] = df[[col for col in df.columns if col.startswith('ablation--')]].apply(lambda x: '--'.join(map(str, x)), axis=1)
+        df.to_csv(os.path.join(path_to_output_dir, 'self_monitoring_all_results.csv'), index=False)
+        print(f"Saved output CSV to {os.path.join(path_to_output_dir, 'self_monitoring_all_results.csv')}")

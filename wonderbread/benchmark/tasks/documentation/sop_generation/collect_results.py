@@ -16,6 +16,7 @@ if __name__ == "__main__":
     args = parse_args()
     path_to_input_dir: str = args.path_to_input_dir
     path_to_output_dir: str = args.path_to_output_dir
+    os.makedirs(path_to_output_dir, exist_ok=True)
     
     results: List[Dict[str, str]] = []
     for demo_folder in os.listdir(path_to_input_dir):
@@ -48,7 +49,8 @@ if __name__ == "__main__":
                 })
 
     # Save results to CSV
-    df = pd.DataFrame(results)
-    df['ablation'] = df[[col for col in df.columns if col.startswith('ablation--')]].apply(lambda x: '--'.join(map(str, x)), axis=1)
-    df.to_csv(os.path.join(path_to_output_dir, 'sop_generation_all_results.csv'), index=False)
-    print(f"Saved output CSV to {os.path.join(path_to_output_dir, 'sop_generation_all_results.csv')}")
+    if len(results) > 0:
+        df = pd.DataFrame(results)
+        df['ablation'] = df[[col for col in df.columns if col.startswith('ablation--')]].apply(lambda x: '--'.join(map(str, x)), axis=1)
+        df.to_csv(os.path.join(path_to_output_dir, 'sop_generation_all_results.csv'), index=False)
+        print(f"Saved output CSV to {os.path.join(path_to_output_dir, 'sop_generation_all_results.csv')}")

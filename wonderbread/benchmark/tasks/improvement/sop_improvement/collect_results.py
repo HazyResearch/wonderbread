@@ -13,6 +13,7 @@ if __name__ == "__main__":
     args = parse_args()
     path_to_input_dir: str = args.path_to_input_dir
     path_to_output_dir: str = args.path_to_output_dir
+    os.makedirs(path_to_output_dir, exist_ok=True)
     
     results: List[pd.DataFrame] = []
     for demo_folder in os.listdir(path_to_input_dir):
