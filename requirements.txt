@@ -33,3 +33,4 @@ plotly
 kaleido
 anthropic
 together
+gdown
