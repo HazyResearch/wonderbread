@@ -17,5 +17,5 @@ if not os.path.exists(f"./outputs/qna_{args.model}.csv"):
     print(f"ERROR: No output file generated from `generate_responses.py`. Expected file at: `./outputs/qna_{args.model}.csv`")
     exit(1)
     
-os.system(f'python {os.path.join(path_to_script_dir, 'eval.py')} "./outputs/qna_{args.model}.csv"')
-os.system("python {os.path.join(path_to_script_dir, 'collect_results.py')} ./outputs/")
+os.system(f'python {os.path.join(path_to_script_dir, "eval.py")} "./outputs/qna_{args.model}.csv"')
+os.system(f"python {os.path.join(path_to_script_dir, 'collect_results.py')} ./outputs/")
