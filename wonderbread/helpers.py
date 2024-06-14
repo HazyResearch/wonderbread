@@ -296,7 +296,7 @@ def group_tasks_by_id(tasks: List[Task]) -> Dict[str, List[Task]]:
 
 def get_webarena_task_json(task_id: int) -> Optional[Dict[str, str]]:
     """Given the integer task ID, return the task JSON from the WebArena dataset"""
-    path_to_webarena_tasks: str = get_rel_path(__file__, "../benchmark/webarena/")
+    path_to_webarena_tasks: str = get_rel_path(__file__, "./benchmark/webarena/")
     for filename in os.listdir(path_to_webarena_tasks):
         if not filename.endswith(".json") or filename.startswith("test"):
             # Skip non-JSON files and test files
