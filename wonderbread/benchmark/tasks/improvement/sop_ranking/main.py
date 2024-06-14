@@ -1,9 +1,3 @@
-"""
-Usage:
-
-python main.py <PATH_TO_TASKS_DIR> FLAGS
-"""
-
 from typing import Any, Dict, List
 import pandas as pd
 import os
@@ -85,7 +79,7 @@ def run(path_to_input_dir: str,
     )
     
     # gt ranking
-    df_rankings = pd.read_csv(os.path.join(get_rel_path(__file__, '../../../data/df_rankings.csv')))
+    df_rankings = pd.read_csv(os.path.join(get_rel_path(__file__, '../../../../../data/df_rankings.csv')))
     df_rankings = df_rankings[df_rankings['task_id'] == task_id]
     
     # Get task description
