@@ -9,7 +9,7 @@ args = parser.parse_args()
 
 path_to_demos: str = get_rel_path(__file__, "../../../../../data/demos")
 path_to_qa: str = get_rel_path(__file__, "../../../../../data/qa_dataset.csv")
-path_to_script_dir: str = os.path.dirname(get_rel_path(__file__, ''))
+path_to_script_dir: str = os.path.dirname(__file__)
 
 os.system(f"python {os.path.join(path_to_script_dir, 'generate_responses.py')} {path_to_demos} --path_to_input_csv {path_to_qa} --model {args.model} {'--is_debug' if args.is_debug else ''}")
 
