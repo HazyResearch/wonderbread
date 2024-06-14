@@ -33,7 +33,7 @@ pip3 install -r requirements.txt
 pip3 install -e .
 
 # Download the "DEBUG" version of the demos.zip file from Google Drive for quick testing, then save to /data/demos
-gdown 1H9ghCgJb4Iesso1f6NcTEBbfo4_bhd47
+gdown 12iJoRZXyBV4pvEsWeAKv2n61LwVbUpqo
 unzip debug_demos.zip && rm debug_demos.zip
 mkdir -p data/demos && mv debug_demos/* data/demos && rm -r debug_demos/
 
