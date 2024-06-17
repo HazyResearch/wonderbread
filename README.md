@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-    <a href="https://hazyresearch.stanford.edu/wonderbread-website/">TODO - Website</a> •
+    <a href="https://hazyresearch.stanford.edu/wonderbread-website/">Website</a> •
     <a href="https://openreview.net/forum?id=rZlLfa81D8&noteId=rZlLfa81D8">TODO - Paper</a> •
     <a href="https://drive.google.com/drive/folders/1sVNJGQHmd0QTNFgEuYFqgXLuQu3VFlsj">Dataset</a>
 </p>
