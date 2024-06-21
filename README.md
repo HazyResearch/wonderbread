@@ -108,6 +108,7 @@ Please consider citing the following if you found this work or code helpful!
   title={Do Multimodal Foundation Models Understand Enterprise Workflows? A Benchmark for Business Process Management Tasks}, 
   author={Michael Wornow and Avanika Narayan and Ben Viggiano and Ishan S. Khare and Tathagat Verma and Tibor Thompson and Miguel Angel Fuentes Hernandez and Sudharsan Sundar and Chloe Trujillo and Krrish Chawla and Rongfei Lu and Justin Shen and Divya Nagaraj and Joshua Martinez and Vardhan Agrawal and Althea Hudson and Nigam H. Shah and Christopher Re},
   journal={arXiv preprint arXiv:2406.13264},
+  url={https://hazyresearch.stanford.edu/wonderbread-website},
   year={2024}
 }
 
