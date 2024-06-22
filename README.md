@@ -110,7 +110,6 @@ All evaluation scripts can be found in `wonderbread/benchmark/eval`.
 Please consider citing the following if you found this work or code helpful!
 
 ```
-
 @article{hazyresearch2024wonderbread,
   title={Do Multimodal Foundation Models Understand Enterprise Workflows? A Benchmark for Business Process Management Tasks}, 
   author={Michael Wornow and Avanika Narayan and Ben Viggiano and Ishan S. Khare and Tathagat Verma and Tibor Thompson and Miguel Angel Fuentes Hernandez and Sudharsan Sundar and Chloe Trujillo and Krrish Chawla and Rongfei Lu and Justin Shen and Divya Nagaraj and Joshua Martinez and Vardhan Agrawal and Althea Hudson and Nigam H. Shah and Christopher Re},
