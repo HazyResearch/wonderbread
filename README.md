@@ -20,6 +20,7 @@
 
 # ⚡ Quickstart
 
+Install the repo.
 ```bash
 # Install repo
 git clone https://github.com/HazyResearch/wonderbread.git
@@ -31,12 +32,18 @@ conda activate wonderbread_env
 brew install ffmpeg
 pip3 install -r requirements.txt
 pip3 install -e .
+```
 
+Download the data.
+```bash
 # Download the "DEBUG" version of the demos.zip file from Google Drive for quick testing, then save to /data/demos
 gdown 12iJoRZXyBV4pvEsWeAKv2n61LwVbUpqo
 unzip debug_demos.zip && rm debug_demos.zip
 mkdir -p data/demos && mv debug_demos/* data/demos && rm -r debug_demos/
+```
 
+Run the benchmark.
+```bash
 # Run evaluations for GPT4 (in debug mode, so only 3 examples per task)
 export OPENAI_API_KEY=<Your API Key>
 cd wonderbread/benchmark/tasks
