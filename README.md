@@ -60,6 +60,11 @@ docker build -t wonderbread .
 docker run -e OPENAI_API_KEY=<api_key> -it wonderbread documentation/sop_generation/run_experiments.py --model GPT4 --is_debug
 ```
 
+```bash
+# copy the results from the docker container to the host
+docker cp <container_id>:/app/wonderbread/benchmark/tasks/improvement/sop_ranking/outputs/sop_ranking_all_results.csv .
+```
+
 In order to...
 - Record your own workflows, please visit `wonderbread/collect`.
 - Run benchmark tasks, please visit `wonderbread/benchmark/tasks`
