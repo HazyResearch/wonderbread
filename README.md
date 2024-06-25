@@ -55,6 +55,23 @@ python3 knowledge_transfer/demo_validation/run_experiments.py --model GPT4 --is_
 python3 knowledge_transfer/question_answering/run_experiments.py --model GPT4 --is_debug
 ```
 
+### With Docker
+
+```bash
+# Build Docker image
+docker build -t wonderbread .
+```
+
+```bash
+# Running sop_generation task with GPT4 model
+docker run -e OPENAI_API_KEY=<api_key> -it wonderbread documentation/sop_generation/run_experiments.py --model GPT4 --is_debug
+```
+
+```bash
+# copy the results from the docker container to the host
+docker cp <container_id>:/app/wonderbread/benchmark/tasks/improvement/sop_ranking/outputs/sop_ranking_all_results.csv .
+```
+
 In order to...
 - Record your own workflows, please visit `wonderbread/collect`.
 - Run benchmark tasks, please visit `wonderbread/benchmark/tasks`
