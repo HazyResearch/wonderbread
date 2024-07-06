@@ -5,7 +5,7 @@ RUN apt-get update && apt-get install -y \
     ffmpeg \
     unzip \
     # required for evdev
-    linux-headers-amd64 \
+    linux-headers-generic \
     gcc \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
