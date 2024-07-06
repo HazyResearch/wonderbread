@@ -20,7 +20,6 @@
 
 # ⚡ Quickstart
 
-Install the repo.
 ```bash
 # Install repo
 git clone https://github.com/HazyResearch/wonderbread.git
@@ -32,18 +31,12 @@ conda activate wonderbread_env
 brew install ffmpeg
 pip3 install -r requirements.txt
 pip3 install -e .
-```
 
-Download the data.
-```bash
 # Download the "DEBUG" version of the demos.zip file from Google Drive for quick testing, then save to /data/demos
 gdown 12iJoRZXyBV4pvEsWeAKv2n61LwVbUpqo
 unzip debug_demos.zip && rm debug_demos.zip
 mkdir -p data/demos && mv debug_demos/* data/demos && rm -r debug_demos/
-```
 
-Run the benchmark.
-```bash
 # Run evaluations for GPT4 (in debug mode, so only 3 examples per task)
 export OPENAI_API_KEY=<Your API Key>
 cd wonderbread/benchmark/tasks
@@ -59,6 +52,23 @@ In order to...
 - Record your own workflows, please visit `wonderbread/collect`.
 - Run benchmark tasks, please visit `wonderbread/benchmark/tasks`
 - Run automated evaluations, please visit `wonderbread/benchmark/eval`
+
+### Running with Docker
+
+You can run the benchmark using Docker with the following commands:
+
+```bash
+# Build Docker image
+docker build -t wonderbread .
+
+# Run a task: below, we do 'SOP generation' with 'GPT4'
+OPENAI_API_KEY=<Your API Key>
+docker run -e OPENAI_API_KEY=$OPENAI_API_KEY -it wonderbread documentation/sop_generation/run_experiments.py --model GPT4 --is_debug
+
+# Copy the results from the Docker container to your machine
+DOCKER_CONTAINER_ID=$(docker ps -a | grep wonderbread  | awk '{print $1}')
+docker cp $DOCKER_CONTAINER_ID:/app/wonderbread/benchmark/tasks/documentation/sop_generation/outputs/sop_generation_all_results.csv .
+```
 
 # 💽 Dataset
 
@@ -110,6 +120,7 @@ All evaluation scripts can be found in `wonderbread/benchmark/eval`.
 Please consider citing the following if you found this work or code helpful!
 
 ```
+
 @article{hazyresearch2024wonderbread,
   title={Do Multimodal Foundation Models Understand Enterprise Workflows? A Benchmark for Business Process Management Tasks}, 
   author={Michael Wornow and Avanika Narayan and Ben Viggiano and Ishan S. Khare and Tathagat Verma and Tibor Thompson and Miguel Angel Fuentes Hernandez and Sudharsan Sundar and Chloe Trujillo and Krrish Chawla and Rongfei Lu and Justin Shen and Divya Nagaraj and Joshua Martinez and Vardhan Agrawal and Althea Hudson and Nigam H. Shah and Christopher Re},
