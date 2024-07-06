@@ -20,6 +20,8 @@
 
 # ⚡ Quickstart
 
+### Simple Setup
+
 ```bash
 # Install repo
 git clone https://github.com/HazyResearch/wonderbread.git
@@ -53,7 +55,7 @@ In order to...
 - Run benchmark tasks, please visit `wonderbread/benchmark/tasks`
 - Run automated evaluations, please visit `wonderbread/benchmark/eval`
 
-### Running with Docker
+### With Docker
 
 You can run the benchmark using Docker with the following commands:
 
