@@ -36,7 +36,7 @@ pip3 install -e .
 
 # Download the "DEBUG" version of the demos.zip file from Zenodo for quick testing, then save to /data/demos
 # If Zenodo is slow, then you can download from Google Drive using `gdown 12iJoRZXyBV4pvEsWeAKv2n61LwVbUpqo`
-wget https://zenodo.org/records/12671568/files/debug_demos.zip?download=1
+wget https://zenodo.org/records/12671568/files/debug_demos.zip
 unzip debug_demos.zip && rm debug_demos.zip
 mkdir -p data/demos && mv debug_demos/* data/demos && rm -r debug_demos/
 
@@ -91,9 +91,9 @@ All demonstration data [can be found at this link](https://zenodo.org/records/12
 * **120 question-answer pairs** about workflow characteristics
 
 We distribute the dataset in three subsets:
-1. `demos.zip` -- [Link](https://zenodo.org/records/12671568/files/demos.zip?download=1) -- the full dataset
-2. `gold_demos.zip` -- [Link](https://zenodo.org/records/12671568/files/gold_demos.zip?download=1) -- only demonstrations corresponding to the 162 workflow intents with gold SOPs
-3. `debug_demos.zip` -- [Link](https://zenodo.org/records/12671568/files/debug_demos.zip?download=1) -- a handful of demonstrations for quick debugging
+1. `demos.zip` -- [Link](https://zenodo.org/records/12671568/files/demos.zip) -- the full dataset
+2. `gold_demos.zip` -- [Link](https://zenodo.org/records/12671568/files/gold_demos.zip) -- only demonstrations corresponding to the 162 workflow intents with gold SOPs
+3. `debug_demos.zip` -- [Link](https://zenodo.org/records/12671568/files/debug_demos.zip) -- a handful of demonstrations for quick debugging
 
 # 📊 Benchmark
 
