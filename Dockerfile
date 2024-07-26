@@ -22,7 +22,7 @@ RUN pip install --no-cache-dir -e .
 RUN mkdir -p /app/data/demos
 
 WORKDIR /app/data
-RUN gdown 12iJoRZXyBV4pvEsWeAKv2n61LwVbUpqo && \
+RUN wget https://zenodo.org/records/12671568/files/debug_demos.zip?download=1 && \
     unzip debug_demos.zip && \
     rm debug_demos.zip && \
     mv debug_demos/* /app/data/demos && \
