@@ -10,7 +10,7 @@
 <p align="center">
     <a href="https://hazyresearch.stanford.edu/wonderbread-website/">Website</a> •
     <a href="https://arxiv.org/abs/2406.13264">Paper</a> •
-    <a href="https://drive.google.com/drive/folders/1sVNJGQHmd0QTNFgEuYFqgXLuQu3VFlsj">Dataset</a>
+    <a href="https://zenodo.org/records/12671568">Dataset</a>
 </p>
 
 **WONDERBREAD** is a benchmark + dataset for evaluating multimodal models on business process management (BPM) tasks. Our goal is to enable enterprise applications of AI that seek to *augment* rather than *replace* human labor.
@@ -34,8 +34,9 @@ brew install ffmpeg
 pip3 install -r requirements.txt
 pip3 install -e .
 
-# Download the "DEBUG" version of the demos.zip file from Google Drive for quick testing, then save to /data/demos
-gdown 12iJoRZXyBV4pvEsWeAKv2n61LwVbUpqo
+# Download the "DEBUG" version of the demos.zip file from Zenodo for quick testing, then save to /data/demos
+# If Zenodo is slow, then you can download from Google Drive using `gdown 12iJoRZXyBV4pvEsWeAKv2n61LwVbUpqo`
+wget https://zenodo.org/records/12671568/files/debug_demos.zip?download=1
 unzip debug_demos.zip && rm debug_demos.zip
 mkdir -p data/demos && mv debug_demos/* data/demos && rm -r debug_demos/
 
@@ -76,7 +77,7 @@ docker cp $DOCKER_CONTAINER_ID:/app/wonderbread/benchmark/tasks/documentation/so
 
 <img width="1200" alt="Dataset Collection Process" src="https://github.com/HazyResearch/wonderbread/assets/5491790/98922312-7914-4a62-a569-523b4ec2b1e4">
 
-All demonstration data [can be found at this link](https://drive.google.com/drive/folders/1sVNJGQHmd0QTNFgEuYFqgXLuQu3VFlsj).
+All demonstration data [can be found at this link](https://zenodo.org/records/12671568).
 
 **WONDERBREAD** contains...
 
@@ -89,10 +90,10 @@ All demonstration data [can be found at this link](https://drive.google.com/driv
 * **Rankings** of demonstrations in order of quality for **162 workflows**
 * **120 question-answer pairs** about workflow characteristics
 
-We distribute the dataset three ways:
-1. `demos.zip` -- [Link](https://drive.google.com/file/d/1k-T-q1SI7rDu7pvqUPQ2w87OLf_IQrSv/view?usp=drive_link) -- the full dataset
-2. `gold_demos.zip` -- [Link](https://drive.google.com/file/d/193Mz_aMuVCXovT3fIwwZc9aH6if9PNjQ/view?usp=drive_link) -- only demonstrations corresponding to the 162 workflow intents with gold SOPs
-3. `debug_demos.zip` -- [Link](https://drive.google.com/file/d/1H9ghCgJb4Iesso1f6NcTEBbfo4_bhd47/view?usp=drive_link) -- a handful of demonstrations for quick debugging
+We distribute the dataset in three subsets:
+1. `demos.zip` -- [Link](https://zenodo.org/records/12671568/files/demos.zip?download=1) -- the full dataset
+2. `gold_demos.zip` -- [Link](https://zenodo.org/records/12671568/files/gold_demos.zip?download=1) -- only demonstrations corresponding to the 162 workflow intents with gold SOPs
+3. `debug_demos.zip` -- [Link](https://zenodo.org/records/12671568/files/debug_demos.zip?download=1) -- a handful of demonstrations for quick debugging
 
 # 📊 Benchmark
 
