@@ -103,15 +103,39 @@ All tasks can be found in `wonderbread/benchmark/tasks`.
 
 1. **Documentation:** Generate standard operating procedures (SOPs) -- which detail the steps of a workflow in writing -- to fulfill quality control and audit requirements.
 
-<img width="1200" alt="Documentation Tasks" src="https://github.com/HazyResearch/wonderbread/assets/5491790/9616ff64-653c-4c6c-9439-c5bc0c2fd9e1">
+    a. **SOP Generation:** Given a video recording of a workflow demonstration, the model must generate an SOP documenting the steps of that demonstration.
+        <div align="center">
+            <img width="500" alt="sop_generation" src="https://github.com/user-attachments/assets/4e6eeec5-0e41-495d-82c8-a6d97cfdd269">
+        </div>
+
+    b. **Demo Segmentation:** Given multiple demonstrations from separate workflows concatenated into a single sequence, the model must identify when each workflow starts and ends.
+        <div align="center">
+            <img width="500" alt="demo_segmentation" src="https://github.com/user-attachments/assets/e996c3df-7e8a-439c-a689-8e28102a8027">
+        </div>
 
 2. **Knowledge Transfer:** Answer user queries about workflow operation to simplify onboarding and reduce the 5.3 hours per week that knowledge workers spend waiting for information from colleagues.
 
-<img width="1200" alt="Knowledge Transfer Tasks" src="https://github.com/HazyResearch/wonderbread/assets/5491790/496cb950-f679-4cda-90a3-09a7e7984182" />
+    a. **Question Answering:** Given a free response question about one or more workflow demonstrations, the model must generate an answer.
+        <div align="center">
+            <img width="500" alt="qa" src="https://github.com/user-attachments/assets/2adb534d-e68a-4d82-817d-2593743b1dc4">
+        </div>
+
+    b. **Demo Validation:** Given a demonstration and SOP, the model must determine whether (a) the workflow was successfully completed; and (b) whether the demonstration exactly followed the SOP.
+        <div align="center">
+            <img width="500" alt="demo_validation" src="https://github.com/user-attachments/assets/ad6f054c-0c19-4481-80b5-9bd1ca748df9">
+        </div>
 
 3. **Process Improvement:** Analyze workflows to identify inefficiencies and correct execution errors.
 
-<img width="1200" alt="Improvement Tasks" src="https://github.com/HazyResearch/wonderbread/assets/5491790/4ebd0d9f-d683-4c91-9b0e-1a5a4943a1ea">
+    a. **SOP Ranking:** Given a set of SOPs written by human annotators, the model must rank the SOPs in order of quality.
+        <div align="center">
+            <img width="500" alt="sop_ranking" src="https://github.com/user-attachments/assets/de912c9c-293c-4664-9695-1bae58aa2a5e">
+        </div>
+
+    b. **Demo Validation:** Given a demonstration and low-quality SOP, the model must generate an improved SOP that better captures what is shown in the demonstration.
+        <div align="center">
+            <img width="500" alt="sop_improvement" src="https://github.com/user-attachments/assets/af16a955-e048-4b54-ae5b-7211b28853df">
+        </div>
 
 
 # ✅ Evaluation
