@@ -91,9 +91,9 @@ All demonstration data [can be found at this link](https://zenodo.org/records/12
 * **120 question-answer pairs** about workflow characteristics
 
 We distribute the dataset in three subsets:
-1. `demos.zip` -- [Link](https://zenodo.org/records/12671568/files/demos.zip) -- the full dataset
-2. `gold_demos.zip` -- [Link](https://zenodo.org/records/12671568/files/gold_demos.zip) -- only demonstrations corresponding to the 162 workflow intents with gold SOPs
-3. `debug_demos.zip` -- [Link](https://zenodo.org/records/12671568/files/debug_demos.zip) -- a handful of demonstrations for quick debugging
+1. `demos.zip` -- [Link](https://zenodo.org/records/12671568/files/demos.zip) -- all 2,928 demonstrations in the full dataset
+2. `gold_demos.zip` -- [Link](https://zenodo.org/records/12671568/files/gold_demos.zip) -- a subset of 724 demonstrations corresponding to the 162 "Gold" tasks
+3. `debug_demos.zip` -- [Link](https://zenodo.org/records/12671568/files/debug_demos.zip) -- a subset of 24 demonstrations for quick debugging
 
 # 📊 Benchmark
 
