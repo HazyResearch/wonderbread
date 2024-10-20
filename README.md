@@ -15,7 +15,20 @@
 
 **WONDERBREAD** is a benchmark + dataset for evaluating multimodal models on business process management (BPM) tasks. Our goal is to enable enterprise applications of AI that seek to *augment* rather than *replace* human labor.
 
+<p align="center">
+    <strong>Overview of Benchmark</strong>
+</p>
+
 <img width="1200" alt="Figure 1" src="https://github.com/HazyResearch/wonderbread/assets/5491790/1e68832f-de67-47bf-a480-78b92beb55f2">
+
+<p></p>
+<p></p>
+
+<p align="center">
+    <strong>Example Demonstration from Benchmark</strong>
+</p>
+
+![demonstration](https://github.com/user-attachments/assets/154e9ad3-6eb0-46dc-a8b8-38fbed1d74c9)
 
 
 # ⚡ Quickstart
